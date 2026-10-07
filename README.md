@@ -1,5 +1,5 @@
 
-Read the online viewer at Remedial-Magic.The-Kitchen.dev
+Read the online viewer in [The Kitchen](https://remedialmagic.the-kitchen.dev/)
 # Remedial Magic
 
 *A rules-light tabletop RPG of summer school, questionable ingredients, and surprisingly durable students.*
