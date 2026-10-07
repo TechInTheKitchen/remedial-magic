@@ -35,16 +35,6 @@ One player serves as the **Professor**, who runs the game; everyone else plays a
 
 Open this repository's folder as an **Obsidian vault** to use its internal links and collapsible callouts. This README uses standard Markdown links for GitHub; the handbook notes retain their Obsidian formatting.
 
-The repository also includes a browser reader with light and dark themes. With Node.js available, run:
-
-```sh
-node tools/local-server.cjs
-```
-
-On Windows, you can double-click **tools/Open Local Site.cmd** instead. The server opens the reader in your browser and prints its local address. Keep it running while you read; opening `index.html` directly cannot load the notes correctly.
-
-After adding or moving documents, Windows users can run **tools/Update Content Index.cmd** to refresh the reader's navigation.
-
 ## License
 
 See [LICENSE](LICENSE) for reuse terms and third-party notices. Original game material is offered under **CC BY-NC 4.0** unless otherwise noted.
