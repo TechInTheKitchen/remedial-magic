@@ -1,0 +1,54 @@
+/* Olive Archive: muted field green and aged ledger paper. */
+:root {
+  color-scheme: dark;
+  --bg: #1a1d17;
+  --surface: #24291f;
+  --surface-2: #30382a;
+  --ink: #e9eadc;
+  --muted: #b4b9a7;
+  --faint: #929b88;
+  --line: #444c3d;
+  --accent: #b7c491;
+  --accent-soft: #34402b;
+  --danger: #d08a78;
+  --success: #a9c38d;
+  --important: #b5aad0;
+  --warning: #d1af72;
+  --shadow-color: rgba(0, 0, 0, .32);
+  --reader-shadow: rgba(0, 0, 0, .20);
+  --scrim-color: rgba(0, 0, 0, .55);
+  --reader-panel: rgba(36, 41, 31, .97);
+  --reader-edge: rgba(183, 196, 145, .17);
+  --page-background-image: none;
+  --page-background-wash: rgba(26, 29, 23, .85);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #e8e8d8;
+  --surface: #f4f4e8;
+  --surface-2: #e9ebdb;
+  --ink: #1c2119;
+  --muted: #4b5545;
+  --faint: #68745f;
+  --line: #cbd0b9;
+  --accent: #486339;
+  --accent-soft: #e0e9d2;
+  --danger: #853f36;
+  --success: #3c642f;
+  --important: #5b4f7f;
+  --warning: #80551d;
+  --shadow-color: rgba(35, 45, 26, .13);
+  --reader-shadow: rgba(35, 45, 26, .08);
+  --scrim-color: rgba(22, 28, 18, .42);
+  --reader-panel: rgba(247, 247, 235, .97);
+  --reader-edge: rgba(72, 99, 57, .17);
+  --page-background-image: none;
+  --page-background-wash: rgba(232, 232, 216, .88);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}

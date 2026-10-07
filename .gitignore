@@ -1,0 +1,9 @@
+.obsidian/
+.DS_Store
+Thumbs.db
+desktop.ini
+.~lock.*#
+Push_to_GitHub.cmd
+/tools/*.bundle
+
+/tools/git-recovery/

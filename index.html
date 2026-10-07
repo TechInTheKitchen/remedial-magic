@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An Obsidian vault published as a readable website.">
+  <meta name="theme-color" content="#171816">
+  <title>Obsidian Reader</title>
+  <link rel="icon" id="site-icon" href="assets/images/site-icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/palette.css">
+  <link rel="stylesheet" href="assets/css/viewer.css">
+  <script src="assets/js/marked.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <button class="icon-button nav-toggle" id="nav-toggle" type="button" aria-label="Open table of contents" aria-controls="site-nav" aria-expanded="false">☰</button>
+    <a class="brand" href="./" data-home-link>
+      <img class="brand-mark" id="brand-mark" src="assets/images/site-icon.svg" alt="" width="32" height="32">
+      <span><strong id="site-title">Obsidian Reader</strong><small id="site-subtitle">Published notes</small></span>
+    </a>
+    <div class="header-actions">
+      <button class="text-button" id="expand-all" type="button">Collapse all</button>
+      <button class="icon-button" id="theme-toggle" type="button" aria-label="Change color theme">◐</button>
+    </div>
+  </header>
+
+  <div class="shell">
+    <main class="reader" id="reader" tabindex="-1">
+      <div class="loading" id="loading" role="status">Opening document…</div>
+      <article class="markdown-body" id="content" hidden></article>
+      <section class="error-panel" id="error" hidden>
+        <p class="eyebrow" id="error-label">DOCUMENT UNAVAILABLE</p>
+        <h1 id="error-title">The requested document could not be opened.</h1>
+        <p id="error-detail">Return to the home document and try again.</p>
+        <a class="return-link" href="./" data-home-link>Return home</a>
+      </section>
+    </main>
+
+    <aside class="sidebar" id="site-nav" aria-label="Table of contents">
+      <div class="sidebar-head">
+        <p class="eyebrow">TABLE OF CONTENTS</p>
+        <button class="icon-button close-nav" id="close-nav" type="button" aria-label="Close table of contents">×</button>
+      </div>
+      <label class="search-label" for="nav-search">Find a document</label>
+      <input class="nav-search" id="nav-search" type="search" placeholder="Search titles…" autocomplete="off">
+      <nav class="tree" id="tree"></nav>
+      <p class="sidebar-note" id="sidebar-note"></p>
+      <div class="source-credits" id="source-credits" hidden></div>
+    </aside>
+  </div>
+  <div class="scrim" id="scrim" hidden></div>
+</body>
+</html>

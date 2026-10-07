@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Remedial Magic",
+    "path": "Remedial Magic.md",
+    "folder": "",
+    "type": "markdown"
+  },
+  {
+    "title": "Please Water the Greenhouse",
+    "path": "Adventures/Please Water the Greenhouse.md",
+    "folder": "Adventures",
+    "type": "markdown"
+  },
+  {
+    "title": "Schools of Magic",
+    "path": "Characters/Schools of Magic.md",
+    "folder": "Characters",
+    "type": "markdown"
+  },
+  {
+    "title": "Students and Advancement",
+    "path": "Characters/Students and Advancement.md",
+    "folder": "Characters",
+    "type": "markdown"
+  },
+  {
+    "title": "Dice and Mana",
+    "path": "Rules/Dice and Mana.md",
+    "folder": "Rules",
+    "type": "markdown"
+  },
+  {
+    "title": "Spell Effects and Backfires",
+    "path": "Rules/Spell Effects and Backfires.md",
+    "folder": "Rules",
+    "type": "markdown"
+  },
+  {
+    "title": "Spellcasting",
+    "path": "Rules/Spellcasting.md",
+    "folder": "Rules",
+    "type": "markdown"
+  },
+  {
+    "title": "Threats and Faculty",
+    "path": "Rules/Threats and Faculty.md",
+    "folder": "Rules",
+    "type": "markdown"
+  },
+  {
+    "title": "Conduct During an Incident",
+    "path": "Rules/Turns Trouble and Recovery.md",
+    "folder": "Rules",
+    "type": "markdown"
+  },
+  {
+    "title": "PRISMS",
+    "path": "Setting/PRISMS.md",
+    "folder": "Setting",
+    "type": "markdown"
+  },
+  {
+    "title": "Your First Afternoon at Prisms",
+    "path": "Setting/Your First Afternoon at Prisms.md",
+    "folder": "Setting",
+    "type": "markdown"
+  }
+]

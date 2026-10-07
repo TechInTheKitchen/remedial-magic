@@ -1,0 +1,12 @@
+{
+  "siteTitle": "Remedial Magic",
+  "siteSubtitle": "Welcome to Pengorgon's Remedial Institute for Summer Magical Studies",
+  "homeDocument": "Remedial Magic.md",
+  "loadingText": "Visiting the Library…",
+  "sidebarNote": "A brighter future through adequate supervision.",
+  "icon": "assets/images/site-icon.svg",
+  "themeStorageKey": "prisms-handbook",
+  "excludedFiles": ["Private Notes.md", ".gitignore", ".nojekyll", "LICENSE"],
+  "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
+  "attributions": []
+}

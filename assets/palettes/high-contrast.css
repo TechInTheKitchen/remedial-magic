@@ -1,0 +1,54 @@
+/* High Contrast: strong separation for extended reading. */
+:root {
+  color-scheme: dark;
+  --bg: #080a0b;
+  --surface: #111517;
+  --surface-2: #20272a;
+  --ink: #ffffff;
+  --muted: #d6dfe0;
+  --faint: #b9c8ca;
+  --line: #65777d;
+  --accent: #a9dcff;
+  --accent-soft: #183544;
+  --danger: #ffb0a6;
+  --success: #b8ecb5;
+  --important: #d4c2ff;
+  --warning: #ffe09d;
+  --shadow-color: rgba(0, 0, 0, .45);
+  --reader-shadow: rgba(0, 0, 0, .30);
+  --scrim-color: rgba(0, 0, 0, .7);
+  --reader-panel: #111517;
+  --reader-edge: #65777d;
+  --page-background-image: none;
+  --page-background-wash: #080a0b;
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #f1f3f2;
+  --surface: #ffffff;
+  --surface-2: #e7edeb;
+  --ink: #050706;
+  --muted: #273430;
+  --faint: #405650;
+  --line: #81958e;
+  --accent: #064f79;
+  --accent-soft: #d6e8f1;
+  --danger: #8b2424;
+  --success: #145d25;
+  --important: #4c2884;
+  --warning: #754200;
+  --shadow-color: rgba(0, 0, 0, .17);
+  --reader-shadow: rgba(0, 0, 0, .10);
+  --scrim-color: rgba(0, 0, 0, .50);
+  --reader-panel: #ffffff;
+  --reader-edge: #81958e;
+  --page-background-image: none;
+  --page-background-wash: #f1f3f2;
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}
