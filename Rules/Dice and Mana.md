@@ -8,26 +8,23 @@ Consult: [[Your First Afternoon at Prisms]] | [[PRISMS]] | [[Spellcasting]] | [[
 
 ## Your component counters
 
-The Institute records each ingredient supply with a colored six-sided die. Take only a pinch per cast. The color identifies its **mana type**; matching rolled faces establish whether the practical succeeds.
+Use a colored six-sided die for each ingredient supply. A spell uses only a pinch, so you keep the supply afterward. The color tells you its **mana type**; matching faces tell you whether the spell works.
 
 Mana describes what magic does. A school of magic, such as evocation, describes how a student casts it. Mind mana can therefore power an evocation spell, as in the Fires Word example in [[Spellcasting]].
 
-The cupboard contains seven mana colors. Each covers a family of related effects; paired names identify one type, not two allowances. All counters are ordinary D6s with equal odds. Ingredients of one type work identically for practical records. Mandrake and bottled whispers may smell different, but both contribute (Purple) mind and illusion mana.
+The cupboard contains seven mana colors. Each covers a family of related effects. Fire and Destruction, for example, share the same Red dice. All counters are ordinary D6s with equal odds. Ingredients in the same mana family follow the same rules. Mandrake and bottled whispers may smell different, but both supply Purple mana.
 
 | Die color | Mana type              | Standard ingredient                                     | Other ingredient equivalents             | Magical effects                                                   |
 | --------- | ---------------------- | ------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------- |
 | Red       | **Fire / Destruction** | Pinch of brimstone (sulfur)                             | Hearth charcoal, candle soot             | Flame, heat, explosive energy, breaking things apart              |
-| Blue      | **Water / Binding**    | Saltwater pearl (a dried enchanted droplet), Rain water | Bent pin, knotted thread                 | Water, ice, currents, restraint, pulling linked objects           |
+| Blue      | **Water / Binding**    | Saltwater pearl (a dried enchanted droplet), rainwater | Bent pin, knotted thread                 | Water, ice, currents, restraint, pulling linked objects           |
 | Green     | **Life / Growth**      | Dried mugwort leaf                                      | Chamomile head, apple seed               | Healing, plants, living transformations, vigorous growth          |
 | Brown     | **Earth / Shaping**    | Clay pellet                                             | Pebble, iron-nail clipping               | Stone, soil, metal, weight, reshaping nonliving material          |
 | White     | **Air / Warding**      | Grain of salt                                           | Feather tuft, chalk chip, eggshell flake | Wind, sound, clear light, shields, boundaries, cleansing          |
 | Purple    | **Mind / Illusion**    | Mandrake-root shaving                                   | Dream ink, bottled whisper               | Thoughts, perception, memory, sleep, words made tangible          |
 | Black     | **Death / Spirit**     | Rowan-wood splinter                                     | Grave dust, keepsake scrap               | Decay, ghosts, lingering memories, hauntings, temporary animation |
 
-The die color is a classroom category, not necessarily the ingredient's natural color. Brimstone is not red, and rowan wood is not black. Prisms has enough trouble without requiring nature to follow its stationery policy.
-
-If colors are difficult to distinguish, request counters bearing matching symbols or letters: flame/R, wave/B, leaf/G, stone/E, feather/W, eye/M, ghost/S. Markings must not make one counter distinguishable by touch. The blind draw is an examination procedure, not a rummaging contest.
-
+The die color is a classroom category, not necessarily the ingredient's natural color. Brimstone is not red, and rowan wood is not black. Use the color on the cupboard label.
 ## Handling notes by mana family
 
 ### Fire / Destruction — Red
@@ -36,14 +33,14 @@ Fire makes things brighter, hotter, and considerably more urgent. It releases en
 
 - Intended spell: a flaming sword.
 - Unexpected expression: a shield that protects by becoming too hot to approach.
-- Classroom mishap: the light spell works beautifully, including on everything inside the caster's pockets.
+- Classroom mishap: everything inside the caster's pockets lights up instead of the intended lamp.
 
 ### Mind / Illusion — Purple
 
 Mind acts on perception, thought, dreams, and language. At Prisms, ideas occasionally acquire enough substance to hit someone.
 
 - Intended spell: hide a student behind an illusion.
-- Unexpected expression: Fire Sword becomes **Fires Word**, launching solid words at the target.
+- Unexpected expression: Fire Sword becomes **Fires Word**, launching romance novels at the target.
 - Classroom mishap: an attempt to read thoughts broadcasts the caster's own thoughts to the room.
 
 ### Life / Growth — Green
@@ -52,7 +49,7 @@ Growth repairs and reshapes living things. It is excellent at making more life a
 
 - Intended spell: heal a scraped knee.
 - Unexpected expression: a barrier becomes a rapidly growing hedge.
-- Classroom mishap: the knee heals, but the student's socks grow roots.
+- Classroom mishap: the student's socks grow roots while the knee is still scraped.
 
 ### Air / Warding — White
 
@@ -72,10 +69,10 @@ Blue governs water, ice, and connections. It flows, freezes, joins, restrains, a
 
 ### Death / Spirit — Black
 
-Black governs decay, lingering presences, ghosts, and the impressions things leave behind. Decay ages or weakens material; Red destroys it through released force. It can also let an object briefly behave as though someone is home inside it. It is a normal school subject, not inherently evil magic.
+Black governs decay, lingering presences, ghosts, and the impressions things leave behind. Decay ages or weakens material; Red destroys it through released force. It can also let an object briefly behave as though someone is home inside it. You will study it alongside the other subjects. Working with spirits does not make you evil.
 
 - Intended spell: ask a portrait what happened in the corridor.
-- Unexpected expression: A very opinionated former fencing instructor appears to teach the student a lesson. 
+- Unexpected expression: an attack is delivered by the ghost of an opinionated fencing instructor.
 - Classroom mishap: the desk answers the question and begins reporting every incident of cheating it has witnessed.
 
 ### Earth / Shaping — Brown
@@ -84,15 +81,15 @@ Brown governs soil, stone, metal, and the shape of nonliving things. It builds, 
 
 - Intended spell: raise a stone step to reach a window.
 - Unexpected expression: a sword spell produces an enormous floppy clay blade.
-- Classroom mishap: the step rises correctly, carrying most of the classroom floor with it.
+- Classroom mishap: the classroom floor buckles instead of forming the requested step.
 
 ## Selecting your intended mana
 
 Declare the color that describes **how your spell works**, rather than its purpose alone. A shield might be a White ward, a Blue wall of ice, a Green hedge, or a Brown stone barrier. Healing living tissue belongs to Green; consulting a departed healer belongs to Black.
 
-A spell can use one part of a color's family without requiring the other. A water spell does not have to bind anything. These families add options without adding a skill or roll.
+A spell can use one part of a color's family without requiring the other. A water spell does not have to bind anything. You don't need another skill or roll to use a different part of the family.
 
-Overlapping effects offer different descriptions; they do not grant extra dice or require multiple colors. Each spell declares one intended color, and the draw determines its actual expression.
+If more than one color could do the job, choose how you want to do it. That doesn't grant extra dice or require several colors. Each spell declares one intended color, and the draw determines its actual expression.
 
 ## Cupboard regulations
 
@@ -101,11 +98,10 @@ Overlapping effects offer different descriptions; they do not grant extra dice o
 3. **Draw without looking or feeling for a particular die.** Use dice of the same size and shape in an opaque pouch.
 4. **Ingredients of the same mana type work identically.** A rare specimen may matter to an assignment, but rarity does not grant an extra modifier.
 5. **Return all dice after each cast.** Mix the pouch before the next draw. Ordinary casting does not consume dice or reduce ingredient supplies.
-6. **Use the supplied counters for practical records.** Do not bring actual brimstone, grave dust, or mandrake to the exercise table. Nurse Bell has made this request repeatedly.
 
 ## Library references
 
-The library recommends these sources for comparison with historical ingredient lore. Our seven-color curriculum is not a universal historical system. Several sources concern protection against witchcraft and it's various malaises.
+The library recommends these sources for comparison with historical ingredient lore. Our seven-color curriculum is not a universal historical system. Several sources concern protection against witchcraft and its supposed effects.
 
 - **Brimstone and salt:** the ancient Mesopotamian anti-witchcraft series *Maqlû* addresses sulfur and salt in incantations intended to release a person from sorcery. Fire and Ward are our classroom assignments, not categories established by that source. See [SBL Press: The Witchcraft Series Maqlû, introductory material](https://www.sbl-site.org/wp-content/uploads/archive/pubs/061537P-front.pdf).
 - **Mandrake:** medieval herbal lore gave mandrake elaborate magical harvesting stories. The Mind classification belongs to this curriculum; the source records harvesting lore, not a medieval category of mental mana. See [British Library: How to harvest a mandrake](https://www.bl.uk/stories/blogs/posts/how-to-harvest-a-mandrake).
