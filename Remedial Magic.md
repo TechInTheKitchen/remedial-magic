@@ -11,7 +11,7 @@ Each student casts from **one pouch of colored six-sided dice**. Draw and roll: 
 - **Bring unfinished business.** A simple background knack connects you to people, promises, and problems you have inside the school.
 - **Keep the action moving.** Students are hearty, recovery is forgiving, and missing eyebrows are an educational outcome.
 
-One player serves as the **Professor**; the others play the students. Bring colored D6s, an opaque pouch for each student, and a willingness to explain yourself. Expect teamwork, magical improvisation, narrow escapes from suspicious faculty, and small errands that become rather large secrets. Your adventures may eventually count as practical credit. Leaving class still requires a hall pass.
+One player serves as the **Professor**; the others play the students. Bring colored D6s, an opaque casting pouch for each student, a shared component pouch for random ingredient draws, and a willingness to explain yourself. Expect teamwork, magical improvisation, narrow escapes from suspicious faculty, and small errands that become rather large secrets. Your adventures may eventually count as practical credit. Leaving class still requires a hall pass.
 
 > [!quote] A student's account
 > "First of all, the greenhouse was already making that noise," said the student, rather squeakily.
@@ -26,37 +26,27 @@ One player serves as the **Professor**; the others play the students. Bring colo
 >
 > "That's why we're in detention. Not because of the fire... We had nothing to do with that one!" the student added quickly.
 >
-> *Recollection submitted by a student whose name has been withheld pending return of the greenhouse key. 
+> *Recollection submitted by a student whose name has been withheld pending return of the greenhouse key.*
 
 
 > [!quote] Institute motto
 > A brighter future through adequate supervision.
 
-Start with [[Your First Afternoon at Prisms|your first-afternoon orientation]], then browse the handbook below. For a first adventure, read the student briefing in [[Please Water the Greenhouse]]; its sealed appendix is for the Professor.
+Start with [[Players/01 - Your First Afternoon#Your First Afternoon at Prisms|your first-afternoon orientation]], then browse the handbook below. For a first adventure, read the student briefing in [[Players/05 - Please Water the Greenhouse#Assignment One: Please Water the Greenhouse|Please Water the Greenhouse]]; its sealed appendix is for the Professor.
 
 ## Student handbook
 
-### Practical instruction
+1. [[Players/01 - Your First Afternoon|Your First Afternoon]]
+2. [[Players/02 - Your Student|Your Student]]
+3. [[Players/03 - Casting Magic|Casting Magic]]
+4. [[Players/04 - Trouble and Recovery|Trouble and Recovery]]
+5. [[Players/05 - Please Water the Greenhouse|Please Water the Greenhouse]]
 
-- [[Dice and Mana|The Component Cupboard]] — seven mana families and their ingredients
-- [[Spellcasting|Approved Casting Procedure]] — drawing, matching, and unintended results
-- [[Spell Effects and Backfires|Permitted Effects and Common Mishaps]] — scope, strength, duration, and backfires
-- [[Turns Trouble and Recovery|Conduct During an Incident]] — turns, assistance, Composure, and infirmary collection
-- [[Threats and Faculty|Troublesome Specimens and Faculty Attention]] — hazards, intervention, and disciplinary arrangements
+## Professor (DM)
 
-### Your studies
-
-- [[Schools of Magic|The Summer Curriculum]] — specialties and starting ingredients
-- [[Students and Advancement|Admissions and Progress]] — component allowance, practical packets, and five levels of standing
-
-### Institute affairs
-
-- [[PRISMS|About the Institute]] — our official name and certain unofficial explanations
-
-### Practical assignments
-
-- [[Please Water the Greenhouse|Assignment One: Please Water the Greenhouse]] — student instructions and sealed Professor's notes
+1. [[Professor (DM)/01 - Running the Game|Running the Game]]
+2. [[Professor (DM)/02 - Please Water the Greenhouse|Please Water the Greenhouse]]
 
 ## Concerning practical supervision
 
-Your **Professor (DM)** describes the situation, sets difficulty, and checks that proposed are within reason. The caster normally chooses their own unexpected spells and mishaps. When you ask for help, classmates offer ideas and the Professor chooses one; an obvious opportunity already present in the scene may also supply the explanation. See [[Spellcasting#Explaining an unintended result|Explaining an unintended result]]. You and your classmates describe your actions and make the required draws. 
+Your **Professor (DM)** describes the situation, sets difficulty, and checks that proposed effects are within reason. The caster normally chooses their own unexpected spells and mishaps. When you ask for help, classmates offer ideas and the Professor chooses one; an obvious opportunity already present in the scene may also supply the explanation. See [[Players/03 - Casting Magic#Explaining an unintended result|Explaining an unintended result]]. You and your classmates describe your actions and make the required draws.

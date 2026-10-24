@@ -6,7 +6,24 @@
   "sidebarNote": "A brighter future through adequate supervision.",
   "icon": "assets/images/site-icon.svg",
   "themeStorageKey": "prisms-handbook",
-  "excludedFiles": ["Private Notes.md", ".gitignore", ".nojekyll", "LICENSE"],
-  "excludedFolders": [".git", ".github", ".obsidian", "tools", "assets"],
+  "excludedFiles": [
+    "Private Notes.md",
+    ".gitignore",
+    ".nojekyll",
+    "LICENSE",
+    "README.md"
+  ],
+  "excludedFolders": [
+    ".git",
+    ".github",
+    ".obsidian",
+    "tools",
+    "assets",
+    "backups",
+    "Handouts",
+    "Source",
+    "output",
+    "tmp"
+  ],
   "attributions": []
 }

@@ -17,9 +17,9 @@ Each student casts from **one pouch of colored six-sided dice**. Draw and roll: 
 - **Bring unfinished business.** A simple background knack connects you to people, promises, and problems you have inside the school.
 - **Keep the action moving.** Students are hearty, recovery is forgiving, and missing eyebrows are an educational outcome.
 
-One player serves as the **Professor**; the others play the students. Bring colored D6s, an opaque pouch for each student, and a willingness to explain yourself. Expect teamwork, magical improvisation, narrow escapes from suspicious faculty, and small errands that become rather large secrets. Your adventures may eventually count as practical credit. Leaving class still requires a hall pass.
+One player serves as the **Professor**; the others play the students. Bring colored D6s, an opaque casting pouch for each student, a shared component pouch for random ingredient draws, and a willingness to explain yourself. Expect teamwork, magical improvisation, narrow escapes from suspicious faculty, and small errands that become rather large secrets. Your adventures may eventually count as practical credit. Leaving class still requires a hall pass.
 
-> “We were helping” is a good start. It's rarely a good excuse. 
+> “We were helping” is a good start. It's rarely a good excuse.
 ## License
 
 See [LICENSE](LICENSE) for reuse terms and third-party notices. Original game material is offered under **CC BY-NC 4.0** unless otherwise noted.

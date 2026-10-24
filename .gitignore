@@ -7,3 +7,38 @@ Push_to_GitHub.cmd
 /tools/*.bundle
 
 /tools/git-recovery/
+
+/backups/
+
+# Local publishing workbench; the website publishes the Markdown vault.
+/Handouts/
+/Source/
+/output/
+/tmp/
+/tools/handbook-qa/
+*.af
+*.afpub
+*.afdesign
+*.afphoto
+*.xcf
+*.psd
+*.docx
+*.odt
+*.pdf
+__pycache__/
+~$*
+
+# Print/layout helpers stay local with the workbench.
+/tools/build-student-handbook.py
+/tools/check-student-handbook.py
+/tools/add-chapter-openers.py
+/tools/build-affinity-layout.py
+/tools/build-half-letter-border.cjs
+/tools/build-print-manuscript.py
+/tools/build-vault-docx.py
+/tools/chapter-paper.cjs
+/tools/refine-vault-docx.py
+/tools/simplify-chapter-contents.py
+
+# Cover illustration used by the print layout.
+/assets/images/witch-on-broom.svg

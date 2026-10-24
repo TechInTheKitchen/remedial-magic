@@ -1,8 +1,55 @@
+# 02 - Your Student
 
-# Admissions and Progress
+[[Remedial Magic|Contents]] | [[Players/01 - Your First Afternoon|Previous]] | [[Players/03 - Casting Magic|Next]]
 
-Consult: [[Schools of Magic]] | [[Dice and Mana]] | [[Spellcasting]] | [[PRISMS]]
-## Previous experience and outstanding business
+- [[#The Summer Curriculum|The Summer Curriculum]]
+- [[#Admissions and Progress|Admissions and Progress]]
+
+## The Summer Curriculum
+
+
+Choose the school you're best at. This is your **specialty**, though you can try spells from any school. You're still expected to attend the other lessons.
+
+The Institute teaches seven schools, each with a different favored mana color. Your department issues four starting dice in that color. You can use other colors with your school, too. Consult [[Players/02 - Your Student#Admissions and Progress|Admissions and Progress]] for your allowance and specialty draw.
+
+| School | Favored starting color |
+| --- | --- |
+| Evocation | Red — Fire / Destruction |
+| Conjuration | Blue — Water / Binding |
+| Restoration | Green — Life / Growth |
+| Transmutation | Brown — Earth / Shaping |
+| Abjuration | White — Air / Warding |
+| Enchantment | Purple — Mind / Illusion |
+| Necromancy | Black — Death / Spirit |
+
+| School | Departmental instruction | Typical practical assignment |
+| --- | --- | --- |
+| Evocation | Release and direct magical force | Strike the target rather than the target's supervisor. |
+| Conjuration | Summon, transport, bind, bring something to hand | Retrieve the book without retrieving the bookcase. |
+| Restoration | Heal, encourage growth, reshape living things | Mend the scraped knee without growing roots through the shoe. |
+| Transmutation | Change forms, materials, and physical properties of nonliving things | Turn the teapot back into a teapot. |
+| Abjuration | Protect, contain, cleanse, dispel | Keep the demonstration inside the demonstration circle. |
+| Enchantment | Influence minds, create illusions, reveal hidden information | Find the missing keys without reading the headmaster's diary. |
+| Necromancy | Work with death, decay, ghosts, and lingering presences | Ask the portrait one question without starting a faculty meeting. |
+
+Illusion and divination are taught within Enchantment. Healing and living transformations belong to Restoration; Transmutation handles objects and materials.
+
+### On technique and substance
+
+**Your school is how you cast the spell. Mana is what it uses and what it becomes.** An evocator can attack with Red flame, Blue water, or Purple flying books. An abjurer can protect with White wards, Brown stone, or Green hedges.
+
+Some combinations are more natural than others. Necromancy often uses Black, but that does not make every Black spell Necromancy: directing a ghostly blast can be Evocation. Enchantment covers both false sensory impressions and changes to someone's attention or feelings, as well as spells that uncover hidden information.
+
+Tell the Professor how you are casting and agree on the school before you draw. An unexpected mana result does not change that school or your draw. If the technique fits two schools, choose one before drawing.
+
+> [!quote] Remedial assessment
+> Showing exceptional talent in one subject does not explain why you enchanted the curtains to scream at nearby staff.
+
+---
+
+## Admissions and Progress
+
+### Previous experience and outstanding business
 
 Record your name and the incident that earned your summer place. Choose one reason to trust a classmate: a shared secret, a favor owed, or the fact that they helped put you out. Your referral tells us why you are here.
 
@@ -27,30 +74,26 @@ At debrief, note what happened to that connection. Perhaps you kept your promise
 > [!quote] Admissions annotation
 > Previous experience is welcome. Previous employers have been asked to stop forwarding repair invoices.
 
-## Collecting your first allowance
+### Collecting your first allowance
 
-1. Choose your specialty in [[Schools of Magic|The Summer Curriculum]].
+1. Choose your specialty in [[Players/02 - Your Student#The Summer Curriculum|The Summer Curriculum]].
 2. Collect **four dice of your department's favored color**.
 3. Request **four dice of one different color of your choice**.
-4. Accept **four randomly allocated colors**, one at a time. Repeats are allowed, including your selected colors. Reroll any allocation that would leave more than six of one color in your twelve-die pouch.
+4. Draw **four dice blindly from the shared component pouch**, one at a time. Repeated colors are allowed, including your selected colors. Set aside any die that would leave more than six of one color in your twelve-die pouch and draw again. Return the set-aside dice to the shared pouch when you finish.
 
 Record both selected colors. These are your default preferences when the Supply Office prepares compulsory practical supplements.
 
-For each random starting die, roll a D8; reroll 8s:
+### The shared component pouch
 
-| Result | Color |
-| --- | --- |
-| 1 | Red |
-| 2 | Blue |
-| 3 | Green |
-| 4 | Brown |
-| 5 | White |
-| 6 | Purple |
-| 7 | Black |
+The Supply Office keeps **one central component pouch** for the whole table, stocked with dice in all seven colors. Whenever you need random ingredient dice, mix this pouch and draw blindly, without looking or feeling for particular dice. The color you draw is the ingredient you receive; there is no color roll or lookup table.
+
+Check additions against the size your personal pouch will have after the whole packet is added. Set aside any die whose color is excluded or would exceed the half-pouch limit, then draw another. Return the set-aside dice to the central pouch after completing the draw. The Professor should check there are enough eligible dice before you begin and restock if needed.
+
+Accepted dice go into your own casting pouch. Cast from that personal pouch and return dice to it after each spell. At debrief, return temporary supplies to the central pouch. Keep your permanent allowance.
 
 Your department supplies some ingredients, you choose some, and the rest come from whatever was left.
 
-## Pengorgon's Balanced Reagent Policy
+### Pengorgon's Balanced Reagent Policy
 
 > [!quote] Supply cupboard notice
 > No single ingredient may occupy more than half a student's component allowance. The Institute has already replaced the roof associated with that experiment.
@@ -63,7 +106,7 @@ Use **one opaque pouch as one combined draw pool**. Permanent and loaned ingredi
 
 Keep one supply record with four entries: **permanent allowance, practical packet, collected specimens, and corrective supplies**. Each entry records color counts, not particular dice. Add those counts together to check what belongs in your pouch. Keep temporary ingredients in the pouch that received them; don't trade them between students.
 
-## Summer standing
+### Summer standing
 
 The table lists starting assignment supplies. Collected specimens and corrective supplies may enlarge the working pouch without changing your draw or permanent allowance.
 
@@ -71,23 +114,25 @@ Your cohort advances together after each major practical assignment. Four assign
 
 Sneaking out can lead to a major practical if you tackle a substantial magical problem and explain what you learned at debrief. Leaving the classroom by itself won't earn a level. You can earn credit and still get detention.
 
-| Level | School standing | Ordinary draw | Specialty draw | Permanent dice | Compulsory quest dice | Combined working pouch |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Requires supervision | 5 | 7 | 12 | 6 | 18 |
-| 2 | Shows promise | 5 | 7 | 14 | 8 | 22 |
-| 3 | Provisionally competent | 5 | 8 | 16 | 10 | 26 |
-| 4 | Trusted with the cupboard key | 5 | 8 | 18 | 12 | 30 |
-| 5 | Ready for the final practical | 5 | 9 | 20 | 14 | 34 |
+| Level | School standing               | Ordinary draw | Specialty draw | Permanent dice | Compulsory quest dice | Combined working pouch |
+| ----- | ----------------------------- | ------------- | -------------- | -------------- | --------------------- | ---------------------- |
+| 1     | Requires supervision          | 5             | 7              | 12             | 6                     | 18                     |
+| 2     | Shows promise                 | 5             | 7              | 14             | 8                     | 22                     |
+| 3     | Provisionally competent       | 5             | 8              | 16             | 10                    | 26                     |
+| 4     | Trusted with the cupboard key | 5             | 8              | 18             | 12                    | 30                     |
+| 5     | Ready for the final practical | 5             | 9              | 20             | 14                    | 34                     |
 
 Use your specialty draw when the technique belongs to your school, whatever mana comes out. For other schools, use the ordinary draw. Levels improve your allowance, but the matches needed to pass stay the same. A harder task doesn't let you draw more.
 
 Each time you advance, choose the colors of two new permanent dice. Your specialty draw also grows at Levels 3 and 5. As assignments get harder, the school sends you out with more unfamiliar ingredients.
-## Compulsory practical supplements
+### Compulsory practical supplements
 
 Collect the packet listed for your current level before the first cast that matters on any substantial expedition or practical under pressure, including Level 5 work. One packet lasts for the whole assignment. Between assignments, use your permanent supplies.
 
+Choose one or two preferred colors for the assignment, using your starting choices unless you want to change them. Draw the packet blindly from the shared component pouch, setting aside your preferred colors and any dice that would exceed the half-pouch limit. Return those set-aside dice after completing the packet. Keep these preferences for the whole assignment.
+
 These packets are issued for afternoon study before Quill settles into his chair. Take the issued supplies with you if you slip out. If an adventure catches you by surprise, add the usual packet before the first cast.
-## Specimens collected during an expedition
+### Specimens collected during an expedition
 
 > [!quote] Supply Office notice
 > Students may retain interesting specimens until debrief. Interesting specimens may not retain students.
@@ -104,19 +149,19 @@ Exploration, helping someone, or resolving a magical problem can reward you with
 | A bottled whisper donated by a portrait          | Purple |
 | A button voluntarily surrendered by a ghost      | Black  |
 
-Seeking a particular ingredient may require a detour, a favor, or a problem solved. Safe collection needs no roll; risky collection uses normal task casting. During rounds, collecting something takes an action if the situation calls for one. 
+Seeking a particular ingredient may require a detour, a favor, or a problem solved. Safe collection needs no roll; risky collection uses normal task casting. During rounds, collecting something takes an action if the situation calls for one.
 
-Check the half-pouch limit against the new total before accepting a specimen. If its color would exceed the limit, leave it; do not recolor it or exchange existing supplies. Record accepted specimens by color and mix them into your **component pouch**. 
+Check the half-pouch limit against the new total before accepting a specimen. If its color would exceed the limit, leave it; do not recolor it or exchange existing supplies. Record accepted specimens by color and mix them into your **personal casting pouch**.
 
-An occasional school enchantment may deposit a random ingredient instead: a cupboard sneezes, or a ghost pays an unexpected allowance. Deposits count toward the same three-die reward limit. Use the initial-allocation table to choose from all seven colors, rerolling illegal colors. Students already at the limit receive no further reward dice.
+An occasional school enchantment may deposit a random ingredient instead: a cupboard sneezes, or a ghost pays an unexpected allowance. Deposits count toward the same three-die reward limit. Draw blindly from the shared component pouch, allowing all seven colors and setting aside any die that would exceed the half-pouch limit. Return set-aside dice after the draw. Students already at the limit receive no further reward dice.
 
 Collected specimens are **temporary mission rewards**, separate from advancement. Return their recorded counts at debrief; they neither add permanent dice nor replace your normal chosen-color rewards.
 
 The three-die limit applies to all collected rewards and surprise deposits together. A new room or a second handful from the same shrub is not automatically a new significant scene; look for a changed problem or a meaningful discovery. Offer each student opportunities to collect, rather than rewarding whoever speaks first.
 
-## Corrective supply packets
+### Corrective supply packets
 
-When faculty catch you, they may issue **two compulsory random dice** as the incident's consequence under [[Threats and Faculty#Corrective arrangements|Corrective arrangements]]. Allocate them from colors outside your declared preferences, following the practical supplement procedure. Calculate the final enlarged total before allocating the pair and enforce the half-pouch limit. Record their color counts on paper and mix them into your same pouch.
+When faculty catch you, they may issue **two compulsory random dice** as the incident's consequence under [[Players/04 - Trouble and Recovery#Corrective arrangements|Corrective arrangements]]. Draw them blindly from the shared component pouch, excluding your declared preferred colors and following the practical supplement procedure. Calculate the final enlarged total before allocating the pair and enforce the half-pouch limit. Record their color counts on paper and mix them into your same pouch.
 
 You may receive **at most four corrective dice per assignment**; afterward staff choose another consequence. These supplies change the mix of colors in your pouch. Your draw stays the same. They cannot be discarded, exchanged, or returned early. Remove their recorded counts at debrief without reducing your permanent allowance or advancement rewards. Keep them in the pouch with everything else.
 
@@ -125,7 +170,7 @@ Issue a pair together between casts. Record and check the complete pair before m
 > [!quote] Professor Quill's explanation
 > If you insist on independent study, you may independently study these.
 
-## Returning supplies at debrief
+### Returning supplies at debrief
 
 For an assignment begun at Levels 1–4:
 
@@ -136,21 +181,21 @@ For an assignment begun at Levels 1–4:
 
 Any dice of the recorded colors will do when returning supplies.
 
-Finish returning supplies before you cast again. Remove all temporary color counts, then add your rewards or make any permitted color changes. 
+Finish returning supplies before you cast again. Remove all temporary color counts, then add your rewards or make any permitted color changes.
 
 You retain two ingredients you have learned to prepare yourself; the school reclaims the surplus. An assignment can conclude after a spectacular mishap or faculty intervention. A clean success is not required. Pending supplies remain compulsory until debrief.
 
 If an assignment cannot be resumed, your Professor closes it with a debrief, applies an appropriate faculty consequence, and grants its normal advancement and color choices. Explain what you learned, even if someone else had to finish the repairs.
 
-### Worked supply record
+#### Worked supply record
 
-An incoming evocator receives four Red, requests four Blue, and randomly receives two Red, one Green, and one Purple: **six Red, four Blue, one Green, one Purple**. Red is at the permitted limit.
+An incoming evocator receives four Red, requests four Blue, and blindly draws two Red, one Green, and one Purple from the shared component pouch: **six Red, four Blue, one Green, one Purple**. Red is at the permitted limit.
 
 Their first packet contains two Green, one Brown, one White, one Purple, and one Black. All eighteen dice enter the same pouch.
 
 At debrief, remove that six-die packet and add two chosen-color rewards. The new fourteen-die permanent allowance permits at most seven of one color. One reward can be Red, but the other must differ. Choosing Blue yields **seven Red, five Blue, one Green, one Purple**. Both rewards could instead be Blue, or one Blue and one White.
 
-## Level 5 and graduation
+### Level 5 and graduation
 
 Level 5 is the highest summer standing. The final practical adds fourteen compulsory dice to your twenty permanent supplies: one pouch of thirty-four. At debrief return the whole packet and all collected specimens and corrective supplies. You graduate with the result you earned, without gaining another level or pair of permanent dice.
 
@@ -158,3 +203,7 @@ Further Level 5 expeditions also require a fourteen-die packet. Their debrief ma
 
 > [!quote] Annotation in a returned copy
 > "Competent" apparently means they trust you with more things you still cannot identify.
+
+---
+
+[[Remedial Magic|Contents]] | [[Players/01 - Your First Afternoon|Previous]] | [[Players/03 - Casting Magic|Next]]

@@ -1,22 +1,10 @@
+# 02 - Please Water the Greenhouse
 
-# Assignment One: Please Water the Greenhouse
+[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]]
 
-An unauthorized expedition for incoming Level 1 students. This counts as your first major practical when you return for debrief, even if you left without a hall pass.
 
-Consult: [[Threats and Faculty]] | [[Spellcasting]] | [[Students and Advancement]] | [[Turns Trouble and Recovery]]
 
-> [!quote] Note passed beneath a worksheet
-> Moss is away and something in the greenhouse is crying for water. I've borrowed the key. Quill's asleep. Please hurry before it gets any louder.
-
-## Instructions to students
-
-Begin in afternoon study with your twelve-die permanent allowance. Quill has issued the **six-die Mixed Practical Supplement** for today's exercises; mix it into your one pouch, giving eighteen dice. The packet smells of wet pennies. Quill is now resting his eyes over a stack of worksheets titled Responsible Magical Application.
-
-Someone passes you a note and a borrowed key. Slip out to find out what is happening and help the thirsty specimens. Your ordinary draw is five; your Level 1 specialty draw is seven. The watering cans remain locked away following an earlier incident. The irrigation system accepts several forms of magic, so try an approach from your specialty. 
-
-Try to return to class before Quill notices the empty chairs, and return the key before supper. Groundskeeper Moss is elsewhere on campus. Nurse Bell's wards can collect you even here if you're not careful. 
-
-At debrief, your cohort reaches Level 2. Return the packet and retain two prepared supplies in chosen colors, for fourteen permanent dice, at most seven of one color.
+[[Players/05 - Please Water the Greenhouse|Instructions to students]]
 
 > [!warning] Sealed supervisor's appendix
 > The rest of this assignment is for the Professor. Students: stop here if you would like the greenhouse to remain a surprise.
@@ -25,12 +13,12 @@ At debrief, your cohort reaches Level 2. Return the packet and retain two prepar
 > [!warning]- Supervisor's preparation
 >
 > - Confirm admission records and twelve-die starting allowances.
-> - Read each student's background knack and outstanding business in [[Students and Advancement#Previous experience and outstanding business|Previous experience and outstanding business]]. Bring one of those connections into the adventure using the suggestions below.
-> - Give each student six random unwanted quest dice following [[Students and Advancement]]. Mix them into the existing pouch: one working pool of 18 dice per student.
+> - Read each student's background knack and outstanding business in [[Players/02 - Your Student#Previous experience and outstanding business|Previous experience and outstanding business]]. Bring one of those connections into the adventure using the suggestions below.
+> - Have each student blindly draw six unwanted quest dice from the shared component pouch following [[Players/02 - Your Student#Admissions and Progress|Students and Advancement]]. Mix them into the existing pouch: one working pool of 18 dice per student.
 > - Begin everyone at 10 Composure and shared Suspicion 0.
 > - Confirm that students know their five-die ordinary and seven-die specialty allowances.
 > - Use fixed effect strengths of 2, 4, and 6 for spell effects.
-> - Threat totals below assume three students. Apply the cohort-size adjustment in [[Threats and Faculty]] at each encounter's start: for four students, topiary Stability is 8 and root Stability is 13.
+> - Threat totals below assume three students. Apply the cohort-size adjustment in [[Professor (DM)/01 - Running the Game#Troublesome Specimens and Faculty Attention|Threats and Faculty]] at each encounter's start: for four students, topiary Stability is 8 and root Stability is 13.
 >
 > The quest dice come from the **Mixed Practical Supplement** compulsory for the assignment. Professor Quill insists that learning to use unfamiliar ingredients is the point. Nobody has successfully explained why the packet smells of wet pennies.
 >
@@ -49,7 +37,7 @@ At debrief, your cohort reaches Level 2. Return the packet and retain two prepar
 > Adapt one or two personal connections to this practical and keep the others available for later assignments. Ask those students to help fill in the details. Give them a chance to follow up their connections while helping the group.
 >
 > - A former greenhouse assistant recognizes Moss's irrigation labels without a roll; their troublesome seedling has been placed in the Faculty Favorite bed and wants rescuing.
-> - A kitchen regular finds the cook's missing recipe tucked into a complaining rosebush's bulk. The shrub requests a correction to the phrase "edible garnish" in it's file before it will give up the recipe
+> - A kitchen regular finds the cook's missing recipe tucked into a complaining rosebush's bulk. The shrub requests a correction to the phrase "edible garnish" in its file before it will give up the recipe.
 > - A chronic sneak recognizes a confiscation label on a keepsake beneath the potting shed. Retrieving it can accompany making the mana conduit there safe.
 > - A former athlete finds their teammate's wandering boots caught in a topiary. The boots demand an explanation of the offside rule before agreeing to leave.
 >
@@ -76,7 +64,7 @@ At debrief, your cohort reaches Level 2. Return the packet and retain two prepar
 >
 > Unexpected colors should offer usable alternatives: Green roots carry moisture, Brown reshapes channels, White gathers mist, Purple convinces a nearby object to assist. Do not require Blue dominance to finish the assignment.
 >
-> After the first consequential interaction with irrigation, the pressure gauge drops, the floor trembles, and a squat shrub announces that it 's going to call the students parents. Move into pressured rounds.
+> After the first consequential interaction with irrigation, the pressure gauge drops, the floor trembles, and a squat shrub announces that it's going to call the students’ parents. Move into pressured rounds.
 >
 > ## Incident stage: The specimens have concerns
 >
@@ -121,12 +109,12 @@ At debrief, your cohort reaches Level 2. Return the packet and retain two prepar
 >
 > ## Intervention arrangements
 >
-> Offer collected-ingredient rewards using [[Students and Advancement#Specimens collected during an expedition|Specimens collected during an expedition]]: a watered bed may offer Green seeds, a freed irrigation binding Blue thread, and the repaired conduit spare White warding salt. Announce the color before collection. Each student may collect one die per significant scene, up to three during the expedition, within the half-pouch limit.
+> Offer collected-ingredient rewards using [[Players/02 - Your Student#Specimens collected during an expedition|Specimens collected during an expedition]]: a watered bed may offer Green seeds, a freed irrigation binding Blue thread, and the repaired conduit spare White warding salt. Announce the color before collection. Each student may collect one die per significant scene, up to three during the expedition, within the half-pouch limit.
 >
-> If staff catch the cohort, Quill may choose corrective supplies as the incident's consequence: two random unwanted dice for each implicated student, mixed into their existing pouch. Follow [[Students and Advancement#Corrective supply packets|Corrective supply packets]]. Return all specimens and corrective supplies at debrief as well as the original practical packet.
+> If staff catch the cohort, Quill may choose corrective supplies as the incident's consequence: two unwanted dice drawn blindly from the shared component pouch for each implicated student, mixed into their existing pouch. Follow [[Players/02 - Your Student#Corrective supply packets|Corrective supply packets]]. Return all specimens and corrective supplies at debrief as well as the original practical packet.
 >
 >
-> Use [[Threats and Faculty]] when an incident creates observable evidence. A noisy Wild result may raise Suspicion; a quiet one need not. Infirmary collection adds one for that incident and ensures staff know someone needs checking on.
+> Use [[Professor (DM)/01 - Running the Game#Troublesome Specimens and Faculty Attention|Threats and Faculty]] when an incident creates observable evidence. A noisy Wild result may raise Suspicion; a quiet one need not. Infirmary collection adds one for that incident and ensures staff know someone needs checking on.
 >
 > If Suspicion reaches 6, Groundskeeper Moss arrives with a recently awakened Professor Quill. They stabilize any immediate danger and ask why the greenhouse warranted leaving class without permission. The students finish isolating the root under supervision. The students still have work to do, now with their teachers watching.
 >
@@ -139,3 +127,7 @@ At debrief, your cohort reaches Level 2. Return the packet and retain two prepar
 > Each student advances to **Level 2**, returns the original six-die packet, and receives two permanent dice in chosen colors. Their permanent pouches now contain **14 dice**, with no color exceeding seven. Remove the original packet and every recorded temporary addition, then add the two chosen rewards. Collected specimens and corrective supplies do not increase the permanent allowance. Reset Suspicion after the debrief and carry forward any agreed faculty consequence.
 >
 > File the unresolved shrub complaint for possible follow-up instruction.
+
+---
+
+[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]]

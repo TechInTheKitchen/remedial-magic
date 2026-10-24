@@ -6,63 +6,45 @@
     "type": "markdown"
   },
   {
-    "title": "Please Water the Greenhouse",
-    "path": "Adventures/Please Water the Greenhouse.md",
-    "folder": "Adventures",
+    "title": "01 - Your First Afternoon",
+    "path": "Players/01 - Your First Afternoon.md",
+    "folder": "Players",
     "type": "markdown"
   },
   {
-    "title": "Schools of Magic",
-    "path": "Characters/Schools of Magic.md",
-    "folder": "Characters",
+    "title": "02 - Your Student",
+    "path": "Players/02 - Your Student.md",
+    "folder": "Players",
     "type": "markdown"
   },
   {
-    "title": "Students and Advancement",
-    "path": "Characters/Students and Advancement.md",
-    "folder": "Characters",
+    "title": "03 - Casting Magic",
+    "path": "Players/03 - Casting Magic.md",
+    "folder": "Players",
     "type": "markdown"
   },
   {
-    "title": "Dice and Mana",
-    "path": "Rules/Dice and Mana.md",
-    "folder": "Rules",
+    "title": "04 - Trouble and Recovery",
+    "path": "Players/04 - Trouble and Recovery.md",
+    "folder": "Players",
     "type": "markdown"
   },
   {
-    "title": "Spell Effects and Backfires",
-    "path": "Rules/Spell Effects and Backfires.md",
-    "folder": "Rules",
+    "title": "05 - Please Water the Greenhouse",
+    "path": "Players/05 - Please Water the Greenhouse.md",
+    "folder": "Players",
     "type": "markdown"
   },
   {
-    "title": "Spellcasting",
-    "path": "Rules/Spellcasting.md",
-    "folder": "Rules",
+    "title": "01 - Running the Game",
+    "path": "Professor (DM)/01 - Running the Game.md",
+    "folder": "Professor (DM)",
     "type": "markdown"
   },
   {
-    "title": "Threats and Faculty",
-    "path": "Rules/Threats and Faculty.md",
-    "folder": "Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Conduct During an Incident",
-    "path": "Rules/Turns Trouble and Recovery.md",
-    "folder": "Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "PRISMS",
-    "path": "Setting/PRISMS.md",
-    "folder": "Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "Your First Afternoon at Prisms",
-    "path": "Setting/Your First Afternoon at Prisms.md",
-    "folder": "Setting",
+    "title": "02 - Please Water the Greenhouse",
+    "path": "Professor (DM)/02 - Please Water the Greenhouse.md",
+    "folder": "Professor (DM)",
     "type": "markdown"
   }
 ]
