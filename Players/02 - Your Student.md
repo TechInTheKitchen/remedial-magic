@@ -10,7 +10,7 @@
 
 Choose the school you're best at. This is your **specialty**, though you can try spells from any school. You're still expected to attend the other lessons.
 
-The Institute teaches seven schools, each with a different favored mana color. Your department issues four starting dice in that color. You can use other colors with your school, too. Consult [[Players/02 - Your Student#Admissions and Progress|Admissions and Progress]] for your allowance and specialty draw.
+The Institute teaches seven schools, each with a different favored mana color. Your department issues four starting dice in that color. The favored color only determines your starting supplies. Every school can use every mana color. You get your specialty draw by using your specialty school, whatever color powers the spell. Consult [[Players/02 - Your Student#Admissions and Progress|Admissions and Progress]] for your allowance and specialty draw.
 
 | School | Favored starting color |
 | --- | --- |
@@ -22,21 +22,21 @@ The Institute teaches seven schools, each with a different favored mana color. Y
 | Enchantment | Purple — Mind / Illusion |
 | Necromancy | Black — Death / Spirit |
 
-| School | Departmental instruction | Typical practical assignment |
-| --- | --- | --- |
-| Evocation | Release and direct magical force | Strike the target rather than the target's supervisor. |
-| Conjuration | Summon, transport, bind, bring something to hand | Retrieve the book without retrieving the bookcase. |
-| Restoration | Heal, encourage growth, reshape living things | Mend the scraped knee without growing roots through the shoe. |
-| Transmutation | Change forms, materials, and physical properties of nonliving things | Turn the teapot back into a teapot. |
-| Abjuration | Protect, contain, cleanse, dispel | Keep the demonstration inside the demonstration circle. |
-| Enchantment | Influence minds, create illusions, reveal hidden information | Find the missing keys without reading the headmaster's diary. |
-| Necromancy | Work with death, decay, ghosts, and lingering presences | Ask the portrait one question without starting a faculty meeting. |
+| School        | Departmental instruction                                             | Typical practical assignment                                      |
+| ------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Evocation     | Release and direct magical force                                     | Strike the target rather than the target's supervisor.            |
+| Conjuration   | Summon, transport, bind, bring something to hand                     | Retrieve the book without retrieving the bookcase.                |
+| Restoration   | Heal, encourage growth, reshape living things                        | Mend the scraped knee without growing roots through the shoe.     |
+| Transmutation | Change forms, materials, and physical properties of nonliving things | Turn the teapot back into a teapot.                               |
+| Abjuration    | Protect, contain, cleanse, dispel                                    | Keep the demonstration inside the demonstration circle.           |
+| Enchantment   | Influence minds, create illusions, reveal hidden information         | Find the missing keys without reading the headmaster's diary.     |
+| Necromancy    | Work with death, decay, ghosts, and lingering presences              | Ask the portrait one question without starting a faculty meeting. |
 
 Illusion and divination are taught within Enchantment. Healing and living transformations belong to Restoration; Transmutation handles objects and materials.
 
 ### On technique and substance
 
-**Your school is how you cast the spell. Mana is what it uses and what it becomes.** An evocator can attack with Red flame, Blue water, or Purple flying books. An abjurer can protect with White wards, Brown stone, or Green hedges.
+**The school you use determines how many dice you draw. The mana color determines the form the spell takes.** Choose the school that fits your technique. If it is your specialty, use your specialty draw; otherwise, draw five dice. Choose your intended mana color separately. An evocator can attack with Red flame, Blue water, or Purple flying books. An abjurer can protect with White wards, Brown stone, or Green hedges.
 
 Some combinations are more natural than others. Necromancy often uses Black, but that does not make every Black spell Necromancy: directing a ghostly blast can be Evocation. Enchantment covers both false sensory impressions and changes to someone's attention or feelings, as well as spells that uncover hidden information.
 
@@ -55,7 +55,7 @@ Record your name and the incident that earned your summer place. Choose one reas
 
 Choose **one background knack** from life before Prisms. Perhaps you helped in a greenhouse, spent time in the kitchens, snuck around after curfew, or played on a junior sports team. Keep it fairly specific.
 
-Finish this sentence: **"I know my way around ___ , and ___ still needs something from me."** Use the second blank for someone you know, a promise you made, or a problem you haven't finished with. Talk it over with the Professor and choose something you'd like to follow up this summer.
+Finish this sentence: **"I know my way around ___, and ___ still needs something from me."** In the second blank, name someone who needs your help. This could involve a promise you made or a problem you still need to solve. Talk it over with the Professor and choose something you'd like to follow up this summer.
 
 | Background knack      | Outstanding business                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ Finish this sentence: **"I know my way around ___ , and ___ still needs somethin
 
 The Professor can bring your unfinished business into an adventure: someone you know turns up, you recognize a clue, or a friend asks a favor. A connection can get you through a door or help you understand the situation. You still have to deal with the problem, and it doesn't add another effect to a spell. Make room for everyone's connections.
 
-At debrief, note what happened to that connection. Perhaps you kept your promise, made a friend, or now owe someone an explanation. Agree any new unfinished business together.
+At debrief, note what happened to that connection. Perhaps you kept your promise, made a friend, or now owe someone an explanation. Agree together on any new unfinished business.
 
 > [!quote] Admissions annotation
 > Previous experience is welcome. Previous employers have been asked to stop forwarding repair invoices.
@@ -87,7 +87,7 @@ Record both selected colors. These are your default preferences when the Supply 
 
 The Supply Office keeps **one central component pouch** for the whole table, stocked with dice in all seven colors. Whenever you need random ingredient dice, mix this pouch and draw blindly, without looking or feeling for particular dice. The color you draw is the ingredient you receive; there is no color roll or lookup table.
 
-Check additions against the size your personal pouch will have after the whole packet is added. Set aside any die whose color is excluded or would exceed the half-pouch limit, then draw another. Return the set-aside dice to the central pouch after completing the draw. The Professor should check there are enough eligible dice before you begin and restock if needed.
+When adding a packet, use the final pouch size to calculate the half-pouch limit. Set aside any die whose color is excluded or would exceed the half-pouch limit, then draw another. Return the set-aside dice to the central pouch after completing the draw. The Professor should check there are enough eligible dice before you begin and restock if needed.
 
 Accepted dice go into your own casting pouch. Cast from that personal pouch and return dice to it after each spell. At debrief, return temporary supplies to the central pouch. Keep your permanent allowance.
 
@@ -102,7 +102,7 @@ Your department supplies some ingredients, you choose some, and the rest come fr
 
 Check this when preparing the pouch. A random handful can still come out mostly or entirely one color. Your school's favorite ingredient has to follow the same limit.
 
-Use **one opaque pouch as one combined draw pool**. Permanent and loaned ingredients work identically. Record loans on paper, then mix them into that pouch.
+Keep **all your casting dice in one opaque pouch**. Permanent and loaned ingredients work identically. Record loans on paper, then mix them into that pouch.
 
 Keep one supply record with four entries: **permanent allowance, practical packet, collected specimens, and corrective supplies**. Each entry records color counts, not particular dice. Add those counts together to check what belongs in your pouch. Keep temporary ingredients in the pouch that received them; don't trade them between students.
 
@@ -117,14 +117,14 @@ Sneaking out can lead to a major practical if you tackle a substantial magical p
 | Level | School standing               | Ordinary draw | Specialty draw | Permanent dice | Compulsory quest dice | Combined working pouch |
 | ----- | ----------------------------- | ------------- | -------------- | -------------- | --------------------- | ---------------------- |
 | 1     | Requires supervision          | 5             | 7              | 12             | 6                     | 18                     |
-| 2     | Shows promise                 | 5             | 7              | 14             | 8                     | 22                     |
-| 3     | Provisionally competent       | 5             | 8              | 16             | 10                    | 26                     |
-| 4     | Trusted with the cupboard key | 5             | 8              | 18             | 12                    | 30                     |
-| 5     | Ready for the final practical | 5             | 9              | 20             | 14                    | 34                     |
+| 2     | Shows promise                 | 5             | 8              | 14             | 8                     | 22                     |
+| 3     | Provisionally competent       | 5             | 9              | 16             | 10                    | 26                     |
+| 4     | Trusted with the cupboard key | 5             | 10             | 18             | 12                    | 30                     |
+| 5     | Ready for the final practical | 5             | 11             | 20             | 14                    | 34                     |
 
-Use your specialty draw when the technique belongs to your school, whatever mana comes out. For other schools, use the ordinary draw. Levels improve your allowance, but the matches needed to pass stay the same. A harder task doesn't let you draw more.
+Use your specialty draw when the declared technique belongs to your specialty school, whatever mana color you intend or draw. For other schools, use the ordinary draw. Each level adds one die to your specialty draw as well as increasing your supplies. The matches needed to succeed stay the same. A harder task doesn't let you draw more.
 
-Each time you advance, choose the colors of two new permanent dice. Your specialty draw also grows at Levels 3 and 5. As assignments get harder, the school sends you out with more unfamiliar ingredients.
+Each time you advance, choose the colors of two new permanent dice. Your specialty draw also increases by one die at every level, from seven at Level 1 to eleven at Level 5. As assignments get harder, the school sends you out with more unfamiliar ingredients.
 ### Compulsory practical supplements
 
 Collect the packet listed for your current level before the first cast that matters on any substantial expedition or practical under pressure, including Level 5 work. One packet lasts for the whole assignment. Between assignments, use your permanent supplies.
@@ -161,7 +161,7 @@ The three-die limit applies to all collected rewards and surprise deposits toget
 
 ### Corrective supply packets
 
-When faculty catch you, they may issue **two compulsory random dice** as the incident's consequence under [[Players/04 - Trouble and Recovery#Corrective arrangements|Corrective arrangements]]. Draw them blindly from the shared component pouch, excluding your declared preferred colors and following the practical supplement procedure. Calculate the final enlarged total before allocating the pair and enforce the half-pouch limit. Record their color counts on paper and mix them into your same pouch.
+When faculty catch you, they may issue **two compulsory random dice** as the incident's consequence under [[Players/04 - Trouble and Recovery#Corrective arrangements|Corrective arrangements]]. Draw them blindly from the shared component pouch, excluding your declared preferred colors and following the practical supplement procedure. Use the pouch size after both dice are added to calculate the half-pouch limit. Record their color counts on paper and mix them into your same pouch.
 
 You may receive **at most four corrective dice per assignment**; afterward staff choose another consequence. These supplies change the mix of colors in your pouch. Your draw stays the same. They cannot be discarded, exchanged, or returned early. Remove their recorded counts at debrief without reducing your permanent allowance or advancement rewards. Keep them in the pouch with everything else.
 
@@ -199,7 +199,7 @@ At debrief, remove that six-die packet and add two chosen-color rewards. The new
 
 Level 5 is the highest summer standing. The final practical adds fourteen compulsory dice to your twenty permanent supplies: one pouch of thirty-four. At debrief return the whole packet and all collected specimens and corrective supplies. You graduate with the result you earned, without gaining another level or pair of permanent dice.
 
-Further Level 5 expeditions also require a fourteen-die packet. Their debrief may authorize recoloring two existing permanent dice, within the half-pouch limit, rather than increasing capacity.
+Further Level 5 expeditions also require a fourteen-die packet. At debrief, the Professor may let you change the colors of two permanent dice instead of adding more dice. Keep within the half-pouch limit.
 
 > [!quote] Annotation in a returned copy
 > "Competent" apparently means they trust you with more things you still cannot identify.

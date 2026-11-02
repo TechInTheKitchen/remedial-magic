@@ -1,6 +1,6 @@
 # 05 - Please Water the Greenhouse
 
-[[Remedial Magic|Contents]] | [[Players/04 - Trouble and Recovery|Previous]]
+[[Remedial Magic|Contents]] | [[Players/04 - Trouble and Recovery|Previous]] | [[Players/06 - Please Return the Library Books|Next]]
 
 - [[#Assignment One: Please Water the Greenhouse|Assignment One: Please Water the Greenhouse]]
 
@@ -20,10 +20,10 @@ Someone passes you a note and a borrowed key. Slip out to find out what is happe
 
 Try to return to class before Quill notices the empty chairs, and return the key before supper. Groundskeeper Moss is elsewhere on campus. Nurse Bell's wards can collect you even here if you're not careful.
 
-At debrief, your cohort reaches Level 2. Return the packet and retain two prepared supplies in chosen colors, for fourteen permanent dice, at most seven of one color.
+At debrief, your cohort reaches Level 2. Return the packet and retain two prepared supplies in chosen colors, for fourteen permanent dice, at most seven of one color. Your specialty draw increases to eight; your ordinary draw stays five.
 
 [[Professor (DM)/02 - Please Water the Greenhouse|Sealed supervisor's appendix]]
 
 ---
 
-[[Remedial Magic|Contents]] | [[Players/04 - Trouble and Recovery|Previous]]
+[[Remedial Magic|Contents]] | [[Players/04 - Trouble and Recovery|Previous]] | [[Players/06 - Please Return the Library Books|Next]]

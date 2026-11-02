@@ -30,7 +30,7 @@ During ordinary instruction, speak and act naturally, allowing classmates to con
 2. Each turn allows **one meaningful action** plus ordinary movement and brief speech.
 3. After the students act, resolve the announced threat action for the scene, or its two announced actions in a finale. Use the shared action budget in [[Professor (DM)/01 - Running the Game#Troublesome Specimens and Faculty Attention|Threats and Faculty]], rather than granting each creature a separate turn.
 
-Agree on student order at the start of each round. A student may delay until later in that student phase, but never gains a second action or carries an unused action into the next round. A student restored from Dazed may act only if their turn has not yet occurred; recovery does not grant an extra turn. Students do not gain interrupting reactions or out-of-turn defense rolls in practical exercises.
+Agree on student order at the start of each round. A student may delay until later in that student phase, but never gains a second action or carries an unused action into the next round. A student restored from Dazed may act only if their turn has not yet occurred; recovery does not grant an extra turn. Students cannot interrupt another turn with an extra action or defense roll.
 
 The Professor tells you what danger you can see coming before you take your turns. If an incident has already caught you by surprise, resolve that first event, then begin rounds.
 
@@ -42,7 +42,7 @@ Before drawing, agree whether the intended target is reachable from the describe
 
 You have spent a term learning spells. Naturally, every stuck door looks like an opportunity to prove it. Practical credit also requires evidence of magical application.
 
-For **any risky task, make a blind draw from your pouch**. That includes sneaking, climbing, persuasion, and investigation. Explain the small magical technique accompanying your effort. Draw five ordinarily, or your specialty allowance when the technique fits your school of choice. Follow [[Players/03 - Casting Magic#Approved Casting Procedure|Spellcasting]] for matches and every drawn color.
+For **any risky task, make a blind draw from your pouch**. That includes sneaking, climbing, persuasion, and investigation. Explain the small magical technique accompanying your effort. The declared school determines your draw: use your specialty allowance when the technique fits your specialty school, or five dice for any other school. Declare the intended mana color separately; colors identify mana sources and do not change your draw. Use [[Players/03 - Casting Magic#Approved Casting Procedure|the casting procedure]] to check matching numbers and count every drawn color.
 
 Examples:
 
@@ -75,7 +75,7 @@ Save draws for uncertain tasks that matter. Sweeping an ordinary floor still nee
 
 ### Assistance between students
 
-Spend your action describing a useful contribution and name the classmate and task it supports. Their next relevant draw gains **one extra blind-drawn die from their own pouch**, before any dice are rolled. The bonus expires at the end of the next student phase, is consumed by that draw, and cannot stack with another helper bonus. Helping yourself does not qualify. The helper does not make a second roll. In an unpressured scene, the bonus applies to the next immediate attempt at the named task.
+Spend your action helping a classmate with a specific task. Describe how you help and name the classmate. On their next draw for that task, they blindly draw **one extra die from their own pouch** before rolling. The bonus applies to one draw and expires at the end of the next student phase. Multiple helpers do not add more dice. Helping yourself does not qualify. The helper does not make a second roll. In an unpressured scene, the bonus applies to the next immediate attempt at the named task.
 
 Helping can also solve a concrete problem directly: brush flowers from someone's eyes, untie shoelaces, or pull a classmate from a hedge. If there is no remaining uncertainty, that action succeeds without a roll.
 
@@ -101,7 +101,7 @@ At **zero Composure**, a student is **Dazed**, rather than seriously injured. Co
 
 The school's ward announces its intention to collect them: a glowing collection number, a hovering pillow, or a cheerful voice saying, "Please remain where you have collapsed."
 
-Collection happens at the **end of the next student phase after the phase in which the student became Dazed**. If they fall during a student phase, classmates may help immediately and throughout the following student phase. If they fall during a threat phase, the following student phase is the response window. That gives the whole group a chance to help. An unrecovered student is then safely teleported to the infirmary, before the next threat phase.
+The wards collect a Dazed student **at the end of the following student phase** unless someone helps them first. If they fall during a student phase, classmates may help immediately and throughout the following student phase. If they fall during a threat phase, the following student phase is the response window. That gives the whole group a chance to help. An unrecovered student is then safely teleported to the infirmary, before the next threat phase.
 
 - **Quick assistance:** an adjacent classmate spends an action offering water, encouragement, or a steadying hand. No roll is needed when they can safely reach the student. Restore **1 Composure** and cancel the collection. If reaching them is itself dangerous, resolve that obstacle first.
 - **Magical healing:** a successful healing effect restores its normal amount and cancels collection if it raises Composure above zero. Wrong-color protection alone does not restore their Composure.
@@ -115,7 +115,7 @@ Keep collected students in the story. Bring them back promptly, play out their c
 
 After a pressured scene, students who can take a few quiet minutes recover **2 Composure**, up to 10. A proper safe rest, meal, or infirmary visit restores all Composure. Healing can also restore Composure during safe downtime, up to 10.
 
-The two-point breather applies once after that pressured scene, not once per pause or room entered. A safe full rest requires the immediate threat or deadline to be resolved or genuinely escaped. If the entire cohort is Dazed, incapacitated, or collected, proceed directly to ward rescue and a supervised continuation. Resume once the students can take part again.
+The two-point breather applies once after that pressured scene, not once per pause or room entered. For a full rest, students must first resolve or escape the immediate threat or deadline. If the entire cohort is Dazed, incapacitated, or collected, proceed directly to ward rescue and a supervised continuation. Resume once the students can take part again.
 
 Recovery clears exhaustion, not every visible sign of a mishap. Missing eyebrows and ink-stained uniforms can survive long enough to complicate the debrief. You and your Professor may agree when a cosmetic symptom has served its purpose. Eyebrows do grow back.
 
@@ -136,7 +136,7 @@ Increase Suspicion by one when a distinct incident leaves clear evidence for sta
 
 Use each response when Suspicion first reaches that band, rather than every round. If it falls and rises again, a new incident may bring another response. A teacher showing up doesn't mean a fight has started.
 
-Taking time to repair the damage or give staff an honest, useful account may lower Suspicion by one. Repeating the same excuse earns no further reduction. Risky concealment or persuasion uses a bag draw. A wrong-color success provides a useful alternative; Wild magic adds a complication. Neither has to make your original cover story convincing.
+Taking time to repair the damage or give staff an honest, useful account may lower Suspicion by one. Repeating the same excuse earns no further reduction. Risky attempts to hide evidence or persuade staff use the normal casting rules. A wrong-color success provides a useful alternative; Wild magic adds a complication. Neither has to make your original cover story convincing.
 
 Suspicion returns to zero after the quest's debrief. Actual consequences may last through the next assignment.
 
@@ -148,7 +148,7 @@ Choose one consequence suited to the incident:
 - **Repair duty:** restore the thing the cohort damaged before the debrief.
 - **Corrective homework:** demonstrate the failed technique safely in a short follow-up scene.
 - **Restricted access:** a convenient cupboard or route is unavailable until the students earn permission.
-- **Corrective supplies:** each student implicated in the incident blindly draws two compulsory ingredient dice from the shared component pouch, excluding their declared preferred colors. Follow [[Players/02 - Your Student#Corrective supply packets|Students and Advancement#Corrective supply packets]]; after four corrective dice per student in an assignment, choose another consequence.
+- **Corrective supplies:** each student implicated in the incident blindly draws two compulsory ingredient dice from the shared component pouch, excluding their declared preferred colors. Follow [[Players/02 - Your Student#Corrective supply packets|Corrective supply packets]]; after four corrective dice per student in an assignment, choose another consequence.
 
 Issue corrective supplies when a teacher catches the students or works out who was involved. Raising Suspicion on its own isn't enough. At Suspicion 6, this can be the one required consequence; do not automatically add it to another punishment. Issue the dice before the next cast, never during a draw already underway.
 Detention may mean repairs, homework, or a teacher looking over your shoulder. You keep your level and permanent supplies, and you still take part in the adventure. Finish with the normal debrief and rewards even if staff had to step in.

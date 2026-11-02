@@ -14,7 +14,7 @@
 
 ### Your component counters
 
-Use a colored six-sided die for each ingredient supply. A spell uses only a pinch, so you keep the supply afterward. The color tells you its **mana type**; matching faces tell you whether the spell works.
+Use a colored six-sided die for each ingredient supply. A spell uses only a pinch, so you keep the supply afterward. The color tells you its **mana type**; matching numbers tell you whether the spell works.
 
 Mana describes what magic does. A school of magic, such as evocation, describes how a student casts it. Mind mana can therefore power an evocation spell, as in the Fires Word example in [[Players/03 - Casting Magic#Approved Casting Procedure|Spellcasting]].
 
@@ -91,11 +91,11 @@ Brown governs soil, stone, metal, and the shape of nonliving things. It builds, 
 
 ### Selecting your intended mana
 
-Declare the color that describes **how your spell works**, rather than its purpose alone. A shield might be a White ward, a Blue wall of ice, a Green hedge, or a Brown stone barrier. Healing living tissue belongs to Green; consulting a departed healer belongs to Black.
+Declare the color of the **mana source you intend to use**, based on the substance or magical effect you want to produce. A shield might be a White ward, a Blue wall of ice, a Green hedge, or a Brown stone barrier. Healing living tissue belongs to Green; consulting a departed healer belongs to Black.
 
 A spell can use one part of a color's family without requiring the other. A water spell does not have to bind anything. You don't need another skill or roll to use a different part of the family.
 
-If more than one color could do the job, choose how you want to do it. That doesn't grant extra dice or require several colors. Each spell declares one intended color, and the draw determines its actual expression.
+If more than one color could do the job, choose how you want to do it. That doesn't grant extra dice or require several colors. Choose one intended color for each spell. The colors you draw determine the form it actually takes.
 
 ### Cupboard regulations
 
@@ -129,14 +129,18 @@ Saltwater pearls, dream ink, bottled whispers, paired mana families, and the eff
 
 Tell the Professor what you want the spell to do, who or what it affects, and which **school and mana color** you plan to use. Agree on the difficulty before you draw. The technique has to fit the school: calling a falling brick "an exercise in Enchantment" won't get you a bigger handful.
 
-Once you draw, stick with the intention and difficulty you agreed on.
+**School sets your draw; color identifies your mana source.** Choose the school that fits your casting technique. If it is your specialty school, use your specialty draw for your level; otherwise, draw five dice. Declare your intended mana color separately. Every school can use every mana color. Neither the intended color nor the colors actually drawn changes your allowance.
+
+For example, a Level 1 Evocation specialist draws seven dice to direct either Red flame or Purple flying books at a target using Evocation. The same student draws five dice for an Abjuration ward, even if they intend to power it with Red, their department's favored starting color. Draw blindly from the whole mixed pouch; declaring a color does not let you select dice of that color.
+
+Once you draw, stick with the intention, school, intended mana color, and difficulty you agreed on.
 
 ### The seven steps
 
 1. **Declare your intention.** Say what you want to do, which school you are using, and which mana color you intend.
 2. **Confirm difficulty.** Routine requires two alike, Demanding three, Exceptional four.
-3. **Draw blindly.** Draw five dice, or your specialty allowance for your level. Add one die if a classmate is helping. Keep each die out until the cast is over. If you need more dice than the pouch holds, draw the whole pouch once.
-4. **Roll and inspect the largest matching group.** Any face value qualifies. Meet or exceed the required difficulty to succeed.
+3. **Set your draw from the declared school, then draw blindly.** Use your specialty allowance for your level if the school is your specialty; otherwise, draw five dice. Your intended mana color does not affect this number. Add one die if a classmate is helping. Keep each die out until the cast is over. If you need more dice than the pouch holds, draw the whole pouch once.
+4. **Roll and inspect the largest matching group.** Any face value qualifies. Roll a matching group at least as large as the difficulty requires to succeed.
 5. **Count every drawn color.** Count the dice that matched and those that didn't. The most common color shapes the spell. A tie for most common means Wild magic.
 6. **Resolve the result.** Consult the outcome table below and [[Players/03 - Casting Magic#Permitted Effects and Common Mishaps|Spell Effects and Backfires]].
 7. **Return every die and mix the pouch.** Each cast uses only a pinch of the ingredients. Keep your supplies whether the spell works or backfires.
@@ -163,9 +167,9 @@ A smaller group produces a backfire even if it would have passed an easier exerc
 | Numerical result | Color result                        | Outcome                                                                |
 | ---------------- | ----------------------------------- | ---------------------------------------------------------------------- |
 | Meets difficulty | Intended color leads alone          | Your intended spell succeeds.                                          |
-| Meets difficulty | Another color leads alone           | Your spell succeeds through an unexpected expression of that mana.     |
-| Meets difficulty | Two or more colors tie for the lead | Wild magic: an unintended spell takes hold.                            |
-| Below difficulty | Any color result                    | Your cast backfires; its colors supply the mishap's style and outcome. |
+| Meets difficulty | Another color leads alone           | You get a useful spell shaped by that mana.     |
+| Meets difficulty | Two or more colors tie for the lead | Wild magic: you get an unintended useful effect and a complication.                            |
+| Below difficulty | Any color result                    | Your cast backfires; the leading color or tied colors shape the mishap. |
 
 The leading color just needs more dice than each other color. It doesn't need more than half the handful. Three Red, two Blue, and two Green resolve as Red. Two Red, two Blue, and one Green are Wild. A tie below the leader does not count.
 
@@ -187,18 +191,18 @@ A Red/Green tie on Fire Sword might produce a flaming rosebush: useful against p
 
 You normally choose how your own spell goes sideways, whether it's a useful substitution, Wild magic, or a backfire. Use the leading mana and stay within the result's scope, strength, or severity. You don't have to come up with a pun.
 
-Where the scene already offers an obvious way to succeed by going wrong, the Professor may follow that opening directly. A misplaced gust might knock the sought-after key off its hook and into the soup. That twist has to come from something already in the scene, and a successful roll still gives you a useful result. If the faces fell short, it's a backfire, even if the accident happens to help.
+If something already in the scene offers an obvious way for a mishap to help, the Professor may use it. A misplaced gust might knock the sought-after key off its hook and into the soup. That twist has to come from something already in the scene, and a successful roll still gives you a useful result. If the faces fell short, it's a backfire, even if the accident happens to help.
 
 **Ask your classmates if you get stuck.** They can suggest ideas until the Professor chooses one. The Professor also checks your own suggestion against the rules; work out any changes together. There's no extra roll. Use the incident ledger for ideas when you need it.
 
-A wrong-color success gives you something useful without an automatic penalty. A successful Wild spell needs both a useful benefit and a concrete complication. A backfire needs the consequence specified by its shortfall. Keep the result you rolled as you describe what happened.
+A wrong-color success gives you something useful without an automatic penalty. A successful Wild spell needs both a useful benefit and a concrete complication. For a backfire, use the consequence listed for how far the matching group fell short. Keep the result you rolled as you describe what happened.
 ### An example from the marking ledger
 
-A Level 1 Evocation specialist attempts a Routine Fire Sword and draws seven dice.
+A Level 1 Evocation specialist declares an Evocation attack, Fire Sword, using Red mana at Routine difficulty. Evocation is their specialty, so they draw seven dice blindly from their mixed pouch.
 
 - **Faces:** 2, 2, 3, 3, 4, 5, 6. A pair meets Routine difficulty. The two pairs do not form a triple.
 - **Colors:** one Red, six Purple. Purple leads alone.
-- **Result:** Fires Word: the target is pelted with romance novels.
+- **Result:** Fires Word: the target is pelted with romance novels. Purple supplied the mana; the declared school remains Evocation, so the seven-die draw was still correct.
 
 The same faces fail a Demanding attempt, falling short by one. A Minor Purple backfire might send a book flying back at the student.
 
@@ -236,7 +240,7 @@ Even Exceptional spells have limits. Unlimited wishes and permanent resurrection
 
 **Nearby** means within the same immediate scene and clearly reachable by the described magic. A spell that moves one person between nearby positions is usually Routine; crossing a substantial gap or moving a group is Demanding. Ordinary safe movement needs no cast. Judge reach from the actual obstacle; no measured range rules are needed.
 
-Use whichever is harder: the spell's size or the work it needs to do. A small, heavily enchanted lock can be harder than a large mundane one. You may narrow your intention before rolling to qualify for an easier exercise.
+Set difficulty by both the size of the effect and the obstacle it must overcome. Use the higher difficulty. A small, heavily enchanted lock can be harder than a large mundane one. You may narrow your intention before rolling to qualify for an easier exercise.
 
 ### Marking strength
 
@@ -252,7 +256,7 @@ If the spell doesn't use points, an extra-strong match makes it cleaner or more 
 
 Deal the spell's strength in damage. For multiple targets, divide the total strength between them before drawing, assigning at least one point to each. A Demanding attack dealing 4 points would assign 2 to each of two targets, rather than dealing 4 to everyone.
 
-If an oversized match grants the one-point bonus, assign it to one of those already declared targets after rolling. The same rule applies to divided shields and healing. Do not select a new target after seeing the result.
+If your matching group earns the one-point bonus, assign that point to one of your declared targets after rolling. The same rule applies to divided shields and healing. Do not select a new target after seeing the result.
 
 A different mana color can change how the attack looks while keeping its damage. Flames, flying books, icy pellets, or grasping roots can all deal damage.
 
@@ -268,7 +272,7 @@ Protection against a specific non-damaging hazard, such as smoke or a minor haun
 
 Restore Composure equal to strength, up to the target's maximum. Divide healing between multiple targets before drawing. Green restores a battered student's composure and tends their scrapes; a wrong-color cast provides an unexpected benefit of comparable scale rather than automatically restoring Composure with every color.
 
-For example, a White result might supply a protective air cushion around an injured student; Purple might hide them from a pursuing threat. Those substitutions help the student, but don't restore their lost Composure. Restoring Composure to a Dazed student cancels infirmary collection as described in [[Players/04 - Trouble and Recovery#Conduct During an Incident|Turns Trouble and Recovery]]; concealing their distress alone does not.
+For example, a White result might supply a protective air cushion around an injured student; Purple might hide them from a pursuing threat. Those substitutions help the student, but don't restore their lost Composure. Restoring Composure to a Dazed student cancels infirmary collection as described in [[Players/04 - Trouble and Recovery#Conduct During an Incident|Trouble and Recovery]]; concealing their distress alone does not.
 
 #### Movement and utility
 
@@ -285,7 +289,7 @@ Treat these as one immediate action or one scene of effect. Longer-lasting chang
 Agree on duration before drawing. A scene means the current continuous situation with the same immediate stakes; moving into the next room does not automatically end pursuit, damage, or a troublesome enchantment. You can't claim a fresh scene just to recover again or get rid of a consequence.
 
 - **Momentary distraction:** prevents one announced threat action when the description explains how. It ends after that threat phase. Repeating it requires another action and cast, and an intelligent threat can change tactics.
-- **Ongoing restraint or concealment:** lasts through the scene, but its scope must fit the target. Restraining a nuisance can be Routine, a scene threat Demanding, and a major problem Exceptional. Threats can spend their announced action breaking an ordinary binding or searching; an effect strong enough to contain the whole threat follows its stated solution difficulty.
+- **Ongoing restraint or concealment:** lasts through the scene, but its scope must fit the target. Restraining a nuisance can be Routine, a scene threat Demanding, and a major problem Exceptional. Threats can use their announced action to break an ordinary binding or search for someone concealed. To contain a threat for the whole scene, meet the agreed difficulty for that solution.
 - **Influence:** wins one plausible concession at Routine scope. Compelling serious cooperation or changing a deeply held position is harder and must fit the scene; a Routine charm cannot resolve an entire quest by ordering everyone to obey.
 - **Physical changes:** opened doors, moved objects, and repaired channels remain changed. Temporary enchantments expire at their agreed end. Ordinary environmental consequences require attention rather than vanishing solely because casting has stopped.
 
@@ -310,13 +314,13 @@ You can invent spells of your own using these limits. Tell the Professor what yo
 
 The faces tell you whether the spell takes hold; its difficulty sets the strength. The colors tell you what form it takes. Follow [[Players/03 - Casting Magic#Approved Casting Procedure|Spellcasting]]. A wrong-color result should retain the original purpose where possible; it may substitute a useful benefit when the new mana cannot reasonably accomplish that purpose.
 
-A successful **Wild** result produces an unintended spell from the tied leading colors. Its scope may not exceed the agreed difficulty; its total points remain the recorded spell strength. The caster chooses the useful effect and complication under [[Players/03 - Casting Magic#Explaining an unintended result|Explaining an unintended result]]. The spell still succeeds, even if you have some explaining to do afterward.
+A successful **Wild** result produces an unintended spell from the tied leading colors. Its scope may not exceed the agreed difficulty; its total points remain the spell's strength. The caster chooses the useful effect and complication under [[Players/03 - Casting Magic#Explaining an unintended result|Explaining an unintended result]]. The spell still succeeds, even if you have some explaining to do afterward.
 
 Example: a Routine Red/Green tie on Fire Sword creates a flaming rosebush. It can threaten the target with 2 damage, but then obstructs the caster's route. It does not deal full damage every turn indefinitely.
 
 ### Incident grading
 
-If the largest matching group falls short of difficulty, the intended spell fails and a backfire occurs. Use the leading mana color to theme it; a leading-color tie produces a Wild backfire combining those colors.
+If the largest matching group falls short of difficulty, the intended spell fails and a backfire occurs. Let the leading mana color shape the mishap. If colors tie for the lead, combine them into one Wild backfire.
 
 Compare the required group with the largest rolled group. If no faces match, that largest group is one.
 
@@ -350,7 +354,7 @@ Staff attention can follow a visible or noisy mishap when it makes sense in the 
 
 You can try a spell again because the ingredients go back in your pouch. During a pressured scene, each attempt should consume an action or meaningful opportunity; a failed attempt changes the situation through its backfire. A later attempt is a new cast, not a free retry.
 
-If there's no pressure and nothing much could go wrong, the Professor can let a Routine spell work as intended. Draw and roll when the result or its surprises would matter. During safe downtime, healing can restore Composure up to its maximum. See [[Players/04 - Trouble and Recovery#Conduct During an Incident|Turns Trouble and Recovery]] for rest and recovery.
+If there's no pressure and nothing much could go wrong, the Professor can let a Routine spell work as intended. Draw and roll when the result or its surprises would matter. During safe downtime, healing can restore Composure up to its maximum. See [[Players/04 - Trouble and Recovery#Conduct During an Incident|Trouble and Recovery]] for rest and recovery.
 
 An automatic success does not earn the extra strength for a larger match. For magical protection or other preparations before danger, establish the situation first: if the mana result could matter, make the cast. Time spent repeating attempts gives an active threat or approaching deadline an opportunity to advance. Do not freely stockpile shields; the non-stacking rule applies throughout the continuous scene.
 

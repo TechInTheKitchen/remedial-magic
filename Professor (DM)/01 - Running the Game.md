@@ -10,9 +10,9 @@
 
 The Professor at the table prepares one immediate reason to leave class, a problem worth investigating, and a reason to come back. Use a student's unfinished business when it fits. Give the group a reason to care about the problem before they risk another detention.
 
-Tell students what they can plainly see. Give them more than one way to find an essential clue. If an investigation fails, add trouble while leaving a way to keep looking. Set difficulty from the declared effect, and let different schools and mana supply different solutions.
+Tell students what they can plainly see. Give them more than one way to find an essential clue. If an investigation fails, add trouble while leaving a way to keep looking. Set difficulty from the declared effect, and let students use different schools and mana colors to find solutions. Confirm the school from the casting technique before drawing: the specialty school uses the specialty allowance, and any other school uses five dice. Confirm the intended mana color separately. The intended color and the colors drawn do not change how many dice the student draws.
 
-Before the first cast that matters, issue the current practical packet and begin shared Suspicion at zero. During the expedition, offer meaningful discoveries and announce impending trouble. Quill's waking and prefects' inquiries follow the circumstances and [[Players/04 - Trouble and Recovery#Faculty attention|the attention register]], without additional sleep checks or an unseen countdown.
+Before the first cast that matters, issue the current practical packet and begin shared Suspicion at zero. During the expedition, offer meaningful discoveries and announce impending trouble. Use the situation and [[Players/04 - Trouble and Recovery#Faculty attention|Faculty Suspicion]] to decide when Quill wakes or prefects start asking questions. There are no separate sleep checks or hidden countdowns.
 
 Close the expedition when its central problem is settled, safely abandoned, or handed over with an account of what happened. Ask what the students learned, return their temporary supplies, and award advancement if the expedition counts as a major practical. An unsuccessful major practical may still earn advancement; a short personal errand does not automatically award a level. A student can learn a great deal and still owe the groundskeeper an apology.
 
@@ -26,7 +26,7 @@ Close the expedition when its central problem is settled, safely abandoned, or h
 
 ### Recognizing troublesome specimens
 
-The Professor uses the records below for troublesome specimens. They do not need a dice pouch. The Professor tells you what they're about to do before your turns. If you don't stop them, they act in the threat phase. You can get out of the way, change their plan, contain them, or brace yourself. A broom waving its handle is usually providing sufficient notice.
+Use the table below for creatures, animated objects, and other threats. They do not need a dice pouch. The Professor tells you what they're about to do before your turns. If you don't stop them, they act in the threat phase. You can get out of the way, change their plan, contain them, or brace yourself. A broom waving its handle is usually providing sufficient notice.
 
 | Threat size | Composure or Stability | Damage per threat action | Examples |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ The Professor uses the records below for troublesome specimens. They do not need
 
 Use Composure for people and creatures; use Stability for unstable spells and animated objects. At zero, a threat is exhausted, contained, dispersed, or otherwise out of the scene. Damage need not imply injury or death.
 
-These totals assume **three students**. For each student above or below three, adjust a scene threat's Stability by 2 and a major problem's Stability by 3, with minimums of 2 and 4 respectively. Small nuisances stay at 2. Set the total at the start of the encounter. Keep it there even if a student becomes Dazed or leaves. Damage and the number of threat actions stay the same.
+These totals assume **three students**. For each student above three, add 2 to a scene threat's total or 3 to a major problem's total. For each student below three, subtract the same amount. The minimum is 2 for a scene threat or 4 for a major problem. Small nuisances stay at 2. Set the total at the start of the encounter. Keep it there even if a student becomes Dazed or leaves. Damage and the number of threat actions stay the same.
 
 For example, a four-student major problem has 13 Stability; a two-student one has 7. Larger groups face sturdier threats, with the same damage and number of actions.
 
@@ -53,11 +53,11 @@ Do not add separate defense rolls to successful attacks. Match the spell difficu
 
 #### Responding to announced trouble
 
-Use **one threat action for the whole scene by default**, even if several nuisance creatures are present. A group can act together as one threat. For a major concluding incident, the Professor may announce up to two distinct threat actions before student turns. Each action deals damage to one target or creates one complication; additional targets split its damage budget.
+Use **one threat action for the whole scene by default**, even if several nuisance creatures are present. A group can act together as one threat. For a major concluding incident, the Professor may announce up to two distinct threat actions before student turns. Each action deals damage or creates one complication. If it damages multiple targets, divide the listed damage between them.
 
 If the students stop the announced action, it does not happen. The threat can change its plan for the next round. Environmental hazards use the same threat actions. They don't deal extra damage on the side.
 
-An area hazard gives students an opportunity to move, protect someone, or disable its cause before consequences land. Describe blocked routes and dangerous positions rather than measuring distance.
+An area hazard gives students an opportunity to move, protect someone, or disable its cause before the hazard takes effect. Describe blocked routes and dangerous positions rather than measuring distance.
 
 If an announced damaging action still reaches its target after the students act, apply its damage without another roll. State whether the threat can pursue someone who moves away; moving away only avoids the attack if the student actually reaches safety. If the announced action is prevented, do not replace it with an unannounced attack that phase.
 

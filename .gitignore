@@ -10,7 +10,7 @@ Push_to_GitHub.cmd
 
 /backups/
 
-# Local publishing workbench; the website publishes the Markdown vault.
+# Local publishing work
 /Handouts/
 /Source/
 /output/
@@ -28,7 +28,7 @@ Push_to_GitHub.cmd
 __pycache__/
 ~$*
 
-# Print/layout helpers stay local with the workbench.
+# Print/layout helpers
 /tools/build-student-handbook.py
 /tools/check-student-handbook.py
 /tools/add-chapter-openers.py
@@ -40,5 +40,5 @@ __pycache__/
 /tools/refine-vault-docx.py
 /tools/simplify-chapter-contents.py
 
-# Cover illustration used by the print layout.
+# Cover illustration
 /assets/images/witch-on-broom.svg

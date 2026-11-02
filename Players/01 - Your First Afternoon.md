@@ -11,7 +11,7 @@
 
 Welcome to **Pengorgon's Remedial Institute for Summer Magical Studies**. You may call us **Prisms**. You're here because of an incident, an unfortunate exam result, or a building nobody can live in anymore. This summer, we'd like you to do a little better.
 
-Professor Quill supervises afternoon study from the chair beside the window. His apparent sleeping is officially described as reflective observation. You are expected to remain at your desk.
+Professor Quill supervises afternoon study from the chair beside the window. The Institute calls his naps "reflective observation." You are expected to remain at your desk.
 
 > If someone passes you a borrowed key and a note, take your pouch. An urgent errand beats another worksheet. Try to return before Quill wakes.
 
@@ -21,7 +21,7 @@ Choose a **specialty school of magic** from [[Players/02 - Your Student#The Summ
 
 Record **one background knack** and a connection that still needs your attention: "I know my way around the kitchens, and the cook needs her stolen recipe book back." Your knack means you can handle familiar, safe work without rolling. It doesn't add dice. Your people, promises, and unfinished problems may follow you into an adventure.
 
-Begin at **Level 1 with 10 Composure**. Collect **twelve colored D6s**: four of your school's favored color, four of a different color you choose, and four drawn blindly from the shared component pouch. No color may occupy more than half your pouch; set aside any draw that exceeds that limit and draw again, returning set-aside dice to the shared pouch afterward. Keep everything in **one opaque pouch**.
+Begin at **Level 1 with 10 Composure**. Collect **twelve colored D6s**: four of your school's favored color, four of a different color you choose, and four drawn blindly from the shared component pouch. Your finished twelve-die pouch may contain no more than six dice of any color. Set aside any die that would exceed that limit and draw again. Return the set-aside dice to the shared pouch when you finish. Keep everything in **one opaque pouch**.
 
 ### Know what you are studying
 
@@ -37,7 +37,7 @@ Each die stands for an ingredient supply. The color tells you what kind of mana 
 | Purple | Mind / Illusion    | Dried mandrake root   |
 | Black  | Death / Spirit     | Rowan-wood flakes     |
 
-**Your school is how you cast the spell. Mana is what it uses and what it becomes.** An evocator may strike with flame, water, roots, or flying books. Consult [[Players/03 - Casting Magic#The Component Cupboard|The Component Cupboard]]. Please use dice at the table; actual brimstone is not required.
+**The school you use determines how many dice you draw. The mana color determines the form the spell takes.** Choose the school that fits your technique. If it is your specialty, use your specialty draw; otherwise, draw five dice. Choose your intended mana color separately. An evocator may strike with flame, water, roots, or flying books. Consult [[Players/03 - Casting Magic#The Component Cupboard|The Component Cupboard]]. Please use dice at the table; actual brimstone is not required.
 
 ### Before attempting anything impressive
 
@@ -55,14 +55,14 @@ Look at your **largest matching group**. Two 1s are just as good as two 6s; two 
 
 ### Inspect what you actually used
 
-Count **every drawn color**, including dice outside the matching group. A color leads if it outnumbers each other color; it need not exceed half the handful.
+Count **every drawn color**, including dice outside the matching group. A color leads if you drew more dice of that color than of any other. It does not need to make up more than half the draw.
 
 - **The faces succeed and your intended color leads alone:** your intended spell works as you expected.
 - **The faces succeed and another color leads alone:** a useful spell works through that mana instead. Fire Sword may become **Fires Word**, pelting the target with romance novels.
 - **The faces succeed and colors tie for the lead:** **Wild magic** supplies an unintended useful effect and a complication. A Red/Green Fire Sword might become a flaming rosebush that menaces your pursuer while blocking your route.
-- **The faces fall short:** your cast backfires. The leading color themes the mishap; tied leaders combine their themes into one backfire.
+- **The faces fall short:** your cast backfires. The leading color shapes the mishap. If colors tie for the lead, combine them into one backfire.
 
-**You normally choose your unexpected effect or backfire.** For successful Wild magic, choose both the useful effect and its complication. Follow the colors and the permitted scope, strength, or severity. If you need help, classmates suggest ideas and the Professor chooses one. If something already in the scene offers an obvious way for the spell to go wrong and still help, the Professor may use it.
+**You normally choose your unexpected effect or backfire.** For successful Wild magic, choose both the useful effect and its complication. Use the drawn colors and stay within the limits for the spell or backfire. If you need help, classmates suggest ideas and the Professor chooses one. If something already in the scene offers an obvious way for the spell to go wrong and still help, the Professor may use it.
 
 If the cast succeeds, you get something useful. Wild magic brings trouble as well, but it still helps. A different color winning doesn't automatically add a penalty. A failed cast remains a backfire however clever the explanation. See [[Players/03 - Casting Magic#Approved Casting Procedure|Approved Casting Procedure]].
 
@@ -103,7 +103,7 @@ Helping, exploring, and solving problems can earn a usable ingredient: one die p
 
 Afternoon study includes compulsory unfamiliar supplies: **six extra dice at Level 1**, mixed into your existing pouch for eighteen altogether. Take the packet when you slip out. Older students receive larger packets; unwanted ingredients are character-building.
 
-Four major adventures can advance your cohort through **five levels**. At each advancement debrief, return the loaned packet and gain **two permanent dice in colors you choose**, respecting the half-pouch limit. Your specialty draw grows to eight at Level 3 and nine at Level 5; your ordinary draw stays five. At Level 5, return the whole packet; further debriefs may permit recoloring existing supplies instead of adding more.
+Four major adventures can advance your cohort through **five levels**. At each advancement debrief, return the loaned packet and gain **two permanent dice in colors you choose**, respecting the half-pouch limit. Your specialty draw increases by one die each level: seven at Level 1, eight at Level 2, nine at Level 3, ten at Level 4, and eleven at Level 5. Your ordinary draw stays five. At Level 5, return the whole packet; further debriefs may permit recoloring existing supplies instead of adding more.
 
 Unauthorized expeditions can earn practical credit once you explain what you learned. You still need a hall pass to leave class. You become better prepared, but Prisms keeps finding unfamiliar ingredients for your pouch.
 

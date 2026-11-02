@@ -2,14 +2,14 @@
 
 **Remedial Magic** is a rules-light tabletop RPG of summer school, questionable ingredients, and surprisingly durable students.
 
-Welcome to **Pengorgon's Remedial Institute for Summer Magical Studies** or **PRISMS**. Your last magical mishap earned you a summer of supervised instruction. Fortunately, Professor Quill is supervising through his eyelids. While he dozes over your worksheets, you and your classmates slip out to chase rumors, help friends, and investigate things the school doesn't want you to. Get back before he wakes. Preferably with your eyebrows still intact.
+Welcome to **Pengorgon's Remedial Institute for Summer Magical Studies** or **PRISMS**. Your last magical mishap earned you a summer of supervised instruction. Fortunately, Professor Quill has fallen asleep on duty. While he dozes over your worksheets, you and your classmates slip out to chase rumors, help friends, and investigate things the school doesn't want you to. Get back before he wakes. Preferably with your eyebrows still intact.
 
-Each student casts from **one pouch of colored six-sided dice**. Draw and roll: matching faces decide whether the spell succeeds; the most common color decides what kind of magic manifests. You wanted a Fire Sword. Your ingredients supplied **Fires Word**. The target is now being attacked by a swarm of romance novels.
+Each student casts from **one pouch of colored six-sided dice**. Draw and roll: matching numbers decide whether the spell succeeds; the most common color determines the form it takes. You wanted a Fire Sword. Your ingredients supplied **Fires Word**. The target is now being attacked by a swarm of romance novels.
 
 - **Build your own troublesome pouch.** Choose a magical specialty, earn ingredients, and refine your mix across five levels. Compulsory practical supplies keep even accomplished students guessing.
 - **Help invent the surprises.** Casters choose their unexpected spells and backfires. Wild magic brings a useful effect and a complication; classmates offer ideas when inspiration fails, and the Professor settles any disagreements.
 - **Bring unfinished business.** A simple background knack connects you to people, promises, and problems you have inside the school.
-- **Keep the action moving.** Students are hearty, recovery is forgiving, and missing eyebrows are an educational outcome.
+- **Keep the action moving.** Students are resilient, recovery is forgiving, and missing eyebrows grow back.
 
 One player serves as the **Professor**; the others play the students. Bring colored D6s, an opaque casting pouch for each student, a shared component pouch for random ingredient draws, and a willingness to explain yourself. Expect teamwork, magical improvisation, narrow escapes from suspicious faculty, and small errands that become rather large secrets. Your adventures may eventually count as practical credit. Leaving class still requires a hall pass.
 
@@ -22,7 +22,7 @@ One player serves as the **Professor**; the others play the students. Bring colo
 >
 > "Anyway, the shrub asked for a solicitor, the floor tried to eat my shoe, and I cast Fire Sword, a perfectly good spell. Wrong ingredients. What came out was **Fires Word**, and the topiary got hit by a stack of romance novels. That bought us enough time to turn on the sprinklers and get out."
 >
-> "We got back before Quill woke up. Mostly. He asked what we'd learned, and we said *teamwork*. Then the shrub knocked on the classroom door." they added, looking at their shoes.
+> "We got back before Quill woke up. Mostly. He asked what we'd learned, and we said *teamwork*. Then the shrub knocked on the classroom door," they added, looking at their shoes.
 >
 > "That's why we're in detention. Not because of the fire... We had nothing to do with that one!" the student added quickly.
 >
@@ -41,12 +41,14 @@ Start with [[Players/01 - Your First Afternoon#Your First Afternoon at Prisms|yo
 3. [[Players/03 - Casting Magic|Casting Magic]]
 4. [[Players/04 - Trouble and Recovery|Trouble and Recovery]]
 5. [[Players/05 - Please Water the Greenhouse|Please Water the Greenhouse]]
+6. [[Players/06 - Please Return the Library Books|Please Return the Library Books]]
 
 ## Professor (DM)
 
 1. [[Professor (DM)/01 - Running the Game|Running the Game]]
 2. [[Professor (DM)/02 - Please Water the Greenhouse|Please Water the Greenhouse]]
+3. [[Professor (DM)/03 - Please Return the Library Books|Please Return the Library Books]]
 
 ## Concerning practical supervision
 
-Your **Professor (DM)** describes the situation, sets difficulty, and checks that proposed effects are within reason. The caster normally chooses their own unexpected spells and mishaps. When you ask for help, classmates offer ideas and the Professor chooses one; an obvious opportunity already present in the scene may also supply the explanation. See [[Players/03 - Casting Magic#Explaining an unintended result|Explaining an unintended result]]. You and your classmates describe your actions and make the required draws.
+Your **Professor (DM)** describes the situation, sets difficulty, and checks that proposed effects are within reason. The caster normally chooses their own unexpected spells and mishaps. If you need help explaining a result, classmates suggest ideas and the Professor chooses one. The Professor may also use an obvious opportunity already present in the scene. See [[Players/03 - Casting Magic#Explaining an unintended result|Explaining an unintended result]]. You and your classmates describe your actions and make the required draws.

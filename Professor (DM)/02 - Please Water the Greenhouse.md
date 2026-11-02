@@ -1,6 +1,6 @@
 # 02 - Please Water the Greenhouse
 
-[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]]
+[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]] | [[Professor (DM)/03 - Please Return the Library Books|Next]]
 
 
 
@@ -124,10 +124,10 @@
 >
 > The expedition concludes when the conduit is safe, the beds are attended to, and the students return to class or account for their absence. The key must be returned or its loss explained. Repair duty can be folded into this final scene. Quill recognizes the work as a major practical at debrief; practical credit does not erase consequences for sneaking out.
 >
-> Each student advances to **Level 2**, returns the original six-die packet, and receives two permanent dice in chosen colors. Their permanent pouches now contain **14 dice**, with no color exceeding seven. Remove the original packet and every recorded temporary addition, then add the two chosen rewards. Collected specimens and corrective supplies do not increase the permanent allowance. Reset Suspicion after the debrief and carry forward any agreed faculty consequence.
+> Each student advances to **Level 2**, returns the original six-die packet, and receives two permanent dice in chosen colors. Their permanent pouches now contain **14 dice**, with no color exceeding seven. Their specialty draw increases to **eight**; their ordinary draw stays five. Remove the original packet and every recorded temporary addition, then add the two chosen rewards. Collected specimens and corrective supplies do not increase the permanent allowance. Reset Suspicion after the debrief and carry forward any agreed faculty consequence.
 >
 > File the unresolved shrub complaint for possible follow-up instruction.
 
 ---
 
-[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]]
+[[Remedial Magic|Contents]] | [[Professor (DM)/01 - Running the Game|Previous]] | [[Professor (DM)/03 - Please Return the Library Books|Next]]
