@@ -1,26 +1,20 @@
 [
     {
+        "title":  "06 - Please Return the Library Books",
+        "path":  "Players/06 - Please Return the Library Books.md",
+        "folder":  "Players",
+        "type":  "markdown"
+    },
+    {
         "title":  "05 - Please Water the Greenhouse",
         "path":  "Players/05 - Please Water the Greenhouse.md",
         "folder":  "Players",
         "type":  "markdown"
     },
     {
-        "title":  "04 - Trouble and Recovery",
-        "path":  "Players/04 - Trouble and Recovery.md",
-        "folder":  "Players",
-        "type":  "markdown"
-    },
-    {
-        "title":  "03 - Casting Magic",
-        "path":  "Players/03 - Casting Magic.md",
-        "folder":  "Players",
-        "type":  "markdown"
-    },
-    {
-        "title":  "06 - Please Return the Library Books",
-        "path":  "Players/06 - Please Return the Library Books.md",
-        "folder":  "Players",
+        "title":  "01 - Running the Game",
+        "path":  "Professor (DM)/01 - Running the Game.md",
+        "folder":  "Professor (DM)",
         "type":  "markdown"
     },
     {
@@ -36,9 +30,15 @@
         "type":  "markdown"
     },
     {
-        "title":  "01 - Running the Game",
-        "path":  "Professor (DM)/01 - Running the Game.md",
-        "folder":  "Professor (DM)",
+        "title":  "01 - Your First Afternoon",
+        "path":  "Players/01 - Your First Afternoon.md",
+        "folder":  "Players",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Remedial Magic",
+        "path":  "Remedial Magic.md",
+        "folder":  "",
         "type":  "markdown"
     },
     {
@@ -48,45 +48,15 @@
         "type":  "markdown"
     },
     {
-        "title":  "Prisms Student Handbook quarter 8.5x11",
-        "path":  ".handbook-review/before/Prisms Student Handbook quarter 8.5x11.pdf",
-        "folder":  ".handbook-review/before",
-        "type":  "pdf"
-    },
-    {
-        "title":  "Prisms Student Handbook quarter 8.5x11",
-        "path":  ".handbook-review/after/Prisms Student Handbook quarter 8.5x11.pdf",
-        "folder":  ".handbook-review/after",
-        "type":  "pdf"
-    },
-    {
-        "title":  "Remedial Magic",
-        "path":  "Remedial Magic.md",
-        "folder":  "",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Prisms Student Handbook quarter 8.5x11",
-        "path":  ".handbook-review/final-check/Prisms Student Handbook quarter 8.5x11.pdf",
-        "folder":  ".handbook-review/final-check",
-        "type":  "pdf"
-    },
-    {
-        "title":  "01 - Your First Afternoon",
-        "path":  "Players/01 - Your First Afternoon.md",
+        "title":  "04 - Trouble and Recovery",
+        "path":  "Players/04 - Trouble and Recovery.md",
         "folder":  "Players",
         "type":  "markdown"
     },
     {
-        "title":  "Prisms Student Handbook quarter 8.5x11",
-        "path":  ".handbook-review/verified/Prisms Student Handbook quarter 8.5x11.pdf",
-        "folder":  ".handbook-review/verified",
-        "type":  "pdf"
-    },
-    {
-        "title":  "Prisms Student Handbook quarter 8.5x110",
-        "path":  ".handbook-review/lo-profile/user/backup/Prisms Student Handbook quarter 8.5x110.pdf",
-        "folder":  ".handbook-review/lo-profile/user/backup",
-        "type":  "pdf"
+        "title":  "03 - Casting Magic",
+        "path":  "Players/03 - Casting Magic.md",
+        "folder":  "Players",
+        "type":  "markdown"
     }
 ]
